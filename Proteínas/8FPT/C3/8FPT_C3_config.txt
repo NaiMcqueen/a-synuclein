@@ -1,0 +1,15 @@
+receptor = 8FPT_C3_prot.pdbqt
+ligand = lig_3P_linolenico.pdbqt
+
+center_x =  29.264
+center_y =  -4.512
+center_z = -13.553
+
+size_x = 78
+size_y = 54
+size_z = 22
+
+energy_range = 4
+
+num_modes = 200
+exhaustiveness = 100

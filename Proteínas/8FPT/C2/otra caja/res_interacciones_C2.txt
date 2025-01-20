@@ -1,0 +1,5424 @@
+
+Ligando: C2_Araquidonico_0001
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+GLY222
+PHE306
+THR304
+VAL307
+ALA198
+GLY117
+ALA14
+VAL202
+ALA223
+THR199
+ALA118
+THR95
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+THR95: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+ALA198: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Araquidonico_0002
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+PHE306
+ALA328
+THR304
+THR409
+GLY410
+VAL307
+ALA198
+GLY117
+ALA14
+VAL202
+ALA223
+THR199
+ALA118
+THR95
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+THR95: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+ALA198: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_Araquidonico_0003
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+VAL202
+
+Repeticiones:
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_0004
+Residuos únicos:
+GLY305
+ALA432
+GLY431
+ALA328
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+GLY514
+VAL516
+
+Repeticiones:
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Araquidonico_0005
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+GLU116
+GLU221
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Araquidonico_0006
+Residuos únicos:
+GLY305
+ALA432
+GLY431
+ALA328
+THR409
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+THR513
+ASP415
+GLY514
+VAL516
+
+Repeticiones:
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Araquidonico_0007
+Residuos únicos:
+GLY305
+ALA432
+GLY431
+ALA328
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+PHE515
+ASP310
+ASP415
+GLY514
+VAL516
+
+Repeticiones:
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Araquidonico_0008
+Residuos únicos:
+LEU103
+LEU207
+LEU521
+GLN206
+ASP205
+ASP310
+ASP415
+LEU312
+ASP519
+ASP101
+LEU417
+GLN102
+
+Repeticiones:
+ASP101: 1 veces
+GLN102: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Araquidonico_0009
+Residuos únicos:
+VAL387
+ASN382
+VAL177
+ASN486
+ASN277
+LYS308
+THR179
+THR284
+VAL282
+
+Repeticiones:
+VAL177: 1 veces
+THR179: 1 veces
+ASN277: 1 veces
+VAL282: 1 veces
+THR284: 1 veces
+LYS308: 1 veces
+ASN382: 1 veces
+VAL387: 1 veces
+ASN486: 1 veces
+
+Ligando: C2_Araquidonico_0010
+Residuos únicos:
+LEU207
+GLN206
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+
+Ligando: C2_Araquidonico_0011
+Residuos únicos:
+LEU103
+LEU207
+GLN416
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+ASP101
+LEU417
+
+Repeticiones:
+ASP101: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+
+Ligando: C2_Araquidonico_0012
+Residuos únicos:
+GLY305
+GLY200
+ALA118
+GLY222
+THR304
+PHE201
+GLU116
+ALA223
+GLY117
+VAL202
+VAL98
+GLY96
+THR199
+ALA14
+
+Repeticiones:
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+
+Ligando: C2_Araquidonico_0013
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+GLU116
+VAL307
+ALA223
+GLY117
+ALA14
+VAL202
+GLY96
+PHE201
+THR199
+ALA118
+
+Repeticiones:
+ALA14: 1 veces
+GLY96: 1 veces
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Araquidonico_0014
+Residuos únicos:
+VAL380
+VAL387
+VAL170
+THR276
+ASN172
+VAL275
+THR381
+ASN382
+ASN277
+THR171
+VAL282
+
+Repeticiones:
+VAL170: 1 veces
+THR171: 1 veces
+ASN172: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL282: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+VAL387: 1 veces
+
+Ligando: C2_Araquidonico_0015
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY222
+GLY431
+PHE306
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+THR513
+VAL202
+GLY514
+
+Repeticiones:
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_Araquidonico_0016
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+GLY410
+GLU116
+GLU221
+GLY327
+VAL412
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_0017
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_0018
+Residuos únicos:
+GLU378
+VAL170
+GLU273
+VAL275
+VAL66
+GLN169
+GLU168
+GLU64
+GLN274
+
+Repeticiones:
+GLU64: 1 veces
+VAL66: 1 veces
+GLU168: 1 veces
+GLN169: 1 veces
+VAL170: 1 veces
+GLU273: 1 veces
+GLN274: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+
+Ligando: C2_Araquidonico_0019
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+PHE515
+GLY514
+VAL516
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Araquidonico_0020
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+THR409
+GLY410
+GLU116
+GLU221
+GLY327
+VAL412
+VAL307
+ALA223
+GLY514
+
+Repeticiones:
+GLU116: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_Araquidonico_D_0001
+Residuos únicos:
+VAL286
+VAL43
+VAL357
+ALA79
+VAL181
+ALA183
+LEU355
+TYR356
+ALA288
+LEU145
+TYR460
+LEU459
+VAL147
+ALA497
+VAL252
+VAL461
+THR392
+ALA393
+VAL77
+VAL391
+LEU250
+LEU41
+VAL495
+
+Repeticiones:
+LEU41: 1 veces
+VAL43: 1 veces
+VAL77: 1 veces
+ALA79: 1 veces
+LEU145: 1 veces
+VAL147: 1 veces
+VAL181: 1 veces
+ALA183: 1 veces
+LEU250: 1 veces
+VAL252: 1 veces
+VAL286: 1 veces
+ALA288: 1 veces
+LEU355: 1 veces
+TYR356: 1 veces
+VAL357: 1 veces
+VAL391: 1 veces
+THR392: 1 veces
+ALA393: 1 veces
+LEU459: 1 veces
+TYR460: 1 veces
+VAL461: 1 veces
+VAL495: 1 veces
+ALA497: 1 veces
+
+Ligando: C2_Araquidonico_D_0002
+Residuos únicos:
+ALA333
+THR213
+ILE121
+ALA228
+THR230
+THR318
+ALA227
+THR108
+ILE331
+ALA319
+VAL215
+ALA109
+GLN112
+ALA122
+ILE226
+ALA214
+VAL320
+VAL110
+THR335
+THR125
+ALA123
+ALA19
+ALA332
+VAL6
+ILE17
+
+Repeticiones:
+VAL6: 1 veces
+ILE17: 1 veces
+ALA19: 1 veces
+THR108: 1 veces
+ALA109: 1 veces
+VAL110: 1 veces
+GLN112: 1 veces
+ILE121: 1 veces
+ALA122: 1 veces
+ALA123: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+ILE226: 1 veces
+ALA227: 1 veces
+ALA228: 1 veces
+THR230: 1 veces
+THR318: 1 veces
+ALA319: 1 veces
+VAL320: 1 veces
+ILE331: 1 veces
+ALA332: 1 veces
+ALA333: 1 veces
+THR335: 1 veces
+
+Ligando: C2_Araquidonico_D_0003
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_D_0004
+Residuos únicos:
+VAL380
+GLU378
+VAL170
+GLU273
+VAL275
+LYS270
+GLU168
+GLN274
+LYS165
+GLN379
+
+Repeticiones:
+LYS165: 1 veces
+GLU168: 1 veces
+VAL170: 1 veces
+LYS270: 1 veces
+GLU273: 1 veces
+GLN274: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+GLN379: 1 veces
+VAL380: 1 veces
+
+Ligando: C2_Araquidonico_D_0005
+Residuos únicos:
+THR213
+THR125
+ALA18
+ALA214
+ALA123
+ALA228
+THR230
+ALA19
+THR21
+THR4
+THR108
+VAL215
+VAL6
+ILE17
+ALA109
+ALA5
+VAL110
+
+Repeticiones:
+THR4: 1 veces
+ALA5: 1 veces
+VAL6: 1 veces
+ILE17: 1 veces
+ALA18: 1 veces
+ALA19: 1 veces
+THR21: 1 veces
+THR108: 1 veces
+ALA109: 1 veces
+VAL110: 1 veces
+ALA123: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+ALA228: 1 veces
+THR230: 1 veces
+
+Ligando: C2_Araquidonico_D_0006
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+THR304
+ALA223
+GLY117
+VAL202
+VAL98
+GLY96
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+
+Ligando: C2_Araquidonico_D_0007
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+GLY410
+ALA223
+GLY117
+ALA14
+VAL202
+GLY96
+PHE201
+ALA118
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_Araquidonico_D_0008
+Residuos únicos:
+LEU207
+LEU521
+GLN206
+GLN416
+ASP205
+ASP310
+ASP415
+LEU312
+ASP519
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Araquidonico_D_0009
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_D_0010
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+THR304
+GLU116
+ALA223
+GLY117
+VAL202
+GLY96
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+
+Ligando: C2_Araquidonico_D_0011
+Residuos únicos:
+VAL380
+VAL387
+THR485
+ASN382
+THR381
+ASN486
+VAL491
+LYS517
+THR493
+VAL484
+VAL282
+THR389
+
+Repeticiones:
+VAL282: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+VAL387: 1 veces
+THR389: 1 veces
+VAL484: 1 veces
+THR485: 1 veces
+ASN486: 1 veces
+VAL491: 1 veces
+THR493: 1 veces
+LYS517: 1 veces
+
+Ligando: C2_Araquidonico_D_0012
+Residuos únicos:
+VAL380
+GLU378
+VAL170
+GLU273
+VAL275
+LYS270
+GLU168
+LYS165
+
+Repeticiones:
+LYS165: 1 veces
+GLU168: 1 veces
+VAL170: 1 veces
+LYS270: 1 veces
+GLU273: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+VAL380: 1 veces
+
+Ligando: C2_Araquidonico_D_0013
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+ALA328
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+THR513
+PHE515
+ASP415
+ASP519
+GLY514
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+ASP519: 1 veces
+
+Ligando: C2_Araquidonico_D_0014
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+VAL412
+ALA198
+GLY117
+ALA223
+THR199
+ALA303
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+ALA198: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+ALA303: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_D_0015
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+GLY410
+GLU116
+GLU221
+GLY327
+PHE411
+VAL307
+VAL412
+ALA223
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_D_0016
+Residuos únicos:
+LEU521
+GLN416
+VAL202
+VAL307
+ASP310
+ASP415
+LEU312
+ASP519
+LEU417
+
+Repeticiones:
+VAL202: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Araquidonico_D_0017
+Residuos únicos:
+GLY305
+GLY222
+ALA328
+GLY410
+GLU221
+GLY327
+PHE411
+VAL307
+GLU326
+ALA223
+VAL412
+
+Repeticiones:
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_D_0018
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR409
+GLY410
+GLY327
+VAL307
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_Araquidonico_D_0019
+Residuos únicos:
+GLY305
+GLY200
+PHE306
+GLY410
+PHE411
+VAL412
+VAL307
+GLY117
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Araquidonico_D_0020
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+GLY222
+PHE306
+THR304
+GLY410
+VAL307
+ALA223
+GLY117
+ALA14
+VAL202
+GLY96
+PHE201
+ALA118
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_DHA_0001
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+GLY410
+GLU116
+GLU221
+GLY327
+PHE411
+VAL307
+VAL412
+ALA223
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_0002
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+PHE515
+GLY514
+VAL516
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_DHA_0003
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+GLY410
+PHE201
+GLY327
+PHE411
+VAL307
+ALA223
+GLY117
+ALA14
+VAL202
+ASP205
+VAL98
+GLY96
+ALA118
+
+Repeticiones:
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+ASP205: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+
+Ligando: C2_DHA_0004
+Residuos únicos:
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLU221
+GLY327
+VAL412
+VAL307
+GLU326
+ALA223
+THR513
+GLY514
+VAL516
+
+Repeticiones:
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_DHA_0005
+Residuos únicos:
+VAL80
+VAL184
+ILE91
+THR287
+THR304
+THR78
+ALA183
+ALA197
+ALA93
+VAL289
+ALA302
+THR182
+ALA288
+ALA79
+THR199
+ALA92
+THR95
+
+Repeticiones:
+THR78: 1 veces
+ALA79: 1 veces
+VAL80: 1 veces
+ILE91: 1 veces
+ALA92: 1 veces
+ALA93: 1 veces
+THR95: 1 veces
+THR182: 1 veces
+ALA183: 1 veces
+VAL184: 1 veces
+ALA197: 1 veces
+THR199: 1 veces
+THR287: 1 veces
+ALA288: 1 veces
+VAL289: 1 veces
+ALA302: 1 veces
+THR304: 1 veces
+
+Ligando: C2_DHA_0006
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY222
+GLY431
+ALA328
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+VAL202
+GLY514
+
+Repeticiones:
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_DHA_0007
+Residuos únicos:
+GLY305
+GLY222
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+ASP415
+ASP519
+VAL516
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+VAL516: 1 veces
+ASP519: 1 veces
+
+Ligando: C2_DHA_0008
+Residuos únicos:
+LEU103
+LEU207
+GLN416
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+ASP101
+LEU417
+
+Repeticiones:
+ASP101: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+
+Ligando: C2_DHA_0009
+Residuos únicos:
+VAL170
+THR276
+ASN172
+VAL275
+THR381
+VAL177
+ASN382
+ASN277
+VAL282
+
+Repeticiones:
+VAL170: 1 veces
+ASN172: 1 veces
+VAL177: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL282: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+
+Ligando: C2_DHA_0010
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+GLU221
+GLY327
+VAL412
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_0011
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+GLY410
+GLU116
+GLU221
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_0012
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+THR304
+GLY410
+GLU116
+VAL307
+GLU12
+GLY117
+ALA223
+VAL202
+ALA118
+
+Repeticiones:
+GLU12: 1 veces
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_DHA_0013
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+PHE411
+VAL307
+ALA223
+GLY117
+THR513
+VAL202
+THR199
+GLY514
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_DHA_0014
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+ASP205
+ASP310
+VAL202
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ASP205: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_0015
+Residuos únicos:
+GLY305
+ALA432
+GLY431
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+PHE515
+ASP310
+ASP415
+GLY514
+VAL516
+
+Repeticiones:
+GLY305: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_DHA_0016
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ASP415
+VAL412
+VAL307
+ALA223
+GLY117
+ASP310
+VAL202
+
+Repeticiones:
+GLY117: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+
+Ligando: C2_DHA_0017
+Residuos únicos:
+GLY305
+GLY222
+ALA328
+GLY410
+VAL412
+VAL307
+ALA223
+GLY117
+ASP310
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_0018
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+GLY410
+GLU116
+GLY327
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_DHA_0019
+Residuos únicos:
+GLY305
+GLY431
+ALA328
+THR409
+GLY410
+GLU221
+GLY327
+PHE411
+VAL307
+GLU326
+ALA223
+VAL412
+VAL516
+
+Repeticiones:
+GLU221: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_DHA_0020
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+VAL98
+VAL307
+ALA223
+GLY117
+VAL202
+GLY96
+PHE201
+ALA118
+
+Repeticiones:
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_DHA_D_0001
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+THR304
+VAL307
+ALA223
+ALA14
+ASP310
+VAL202
+GLY96
+THR199
+ALA118
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+
+Ligando: C2_DHA_D_0002
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+THR513
+GLY514
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_DHA_D_0003
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+PHE306
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+GLY96
+THR199
+ALA14
+THR95
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+THR95: 1 veces
+GLY96: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_D_0004
+Residuos únicos:
+LEU103
+LEU207
+GLN416
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+ASP101
+LEU417
+GLN102
+
+Repeticiones:
+ASP101: 1 veces
+GLN102: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+
+Ligando: C2_DHA_D_0005
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+THR409
+GLY410
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_D_0006
+Residuos únicos:
+GLY305
+GLY222
+ALA328
+THR409
+GLY410
+GLU221
+GLY327
+VAL412
+VAL307
+GLU326
+ALA223
+
+Repeticiones:
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_DHA_D_0007
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+THR409
+GLY410
+GLU116
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_DHA_D_0008
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+THR513
+GLY514
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_DHA_D_0009
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY431
+PHE306
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+VAL307
+ALA223
+GLY117
+PHE515
+VAL202
+GLY514
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+
+Ligando: C2_DHA_D_0010
+Residuos únicos:
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+THR513
+PHE515
+GLY514
+VAL516
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_DHA_D_0011
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY431
+ALA328
+GLY410
+GLY327
+VAL412
+VAL307
+GLU326
+ALA223
+GLY117
+THR513
+VAL202
+GLY514
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_DHA_D_0012
+Residuos únicos:
+VAL380
+VAL387
+THR276
+THR485
+VAL275
+THR381
+VAL177
+ASN382
+ASN277
+ASN486
+VAL484
+VAL282
+
+Repeticiones:
+VAL177: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL282: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+VAL387: 1 veces
+VAL484: 1 veces
+THR485: 1 veces
+ASN486: 1 veces
+
+Ligando: C2_DHA_D_0013
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR409
+GLY410
+VAL98
+VAL307
+ALA223
+GLY117
+VAL202
+GLY96
+PHE201
+ALA118
+
+Repeticiones:
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_DHA_D_0014
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA328
+THR409
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+ALA14
+GLY96
+PHE201
+THR199
+ALA118
+VAL516
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_DHA_D_0015
+Residuos únicos:
+LEU207
+LEU521
+GLN416
+ASP310
+ASP415
+LEU312
+ASP519
+LEU417
+
+Repeticiones:
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_DHA_D_0016
+Residuos únicos:
+VAL387
+VAL170
+THR276
+ASN172
+VAL275
+ASN382
+VAL177
+ASN277
+VAL66
+THR171
+VAL282
+
+Repeticiones:
+VAL66: 1 veces
+VAL170: 1 veces
+THR171: 1 veces
+ASN172: 1 veces
+VAL177: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL282: 1 veces
+ASN382: 1 veces
+VAL387: 1 veces
+
+Ligando: C2_DHA_D_0017
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+PHE515
+ASP415
+GLY514
+VAL516
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_DHA_D_0018
+Residuos únicos:
+GLY305
+GLY200
+PHE306
+ALA328
+THR409
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+ALA14
+THR513
+VAL202
+THR199
+GLY514
+ALA118
+
+Repeticiones:
+ALA14: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_DHA_D_0019
+Residuos únicos:
+LEU103
+LEU207
+ASP205
+ASP310
+ASP415
+LEU312
+ASP101
+LEU417
+
+Repeticiones:
+ASP101: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+
+Ligando: C2_DHA_D_0020
+Residuos únicos:
+VAL380
+VAL170
+GLY280
+VAL275
+THR381
+VAL177
+ASN382
+ASN277
+ALA176
+VAL278
+GLY175
+VAL282
+GLY279
+
+Repeticiones:
+VAL170: 1 veces
+GLY175: 1 veces
+ALA176: 1 veces
+VAL177: 1 veces
+VAL275: 1 veces
+ASN277: 1 veces
+VAL278: 1 veces
+GLY279: 1 veces
+GLY280: 1 veces
+VAL282: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+
+Ligando: C2_Oleico_0001
+Residuos únicos:
+ALA197
+ALA93
+THR182
+ALA79
+THR287
+THR95
+ILE91
+ALA183
+THR409
+ALA288
+VAL80
+THR78
+VAL394
+VAL289
+ALA302
+ALA407
+THR199
+VAL184
+THR392
+THR304
+
+Repeticiones:
+THR78: 1 veces
+ALA79: 1 veces
+VAL80: 1 veces
+ILE91: 1 veces
+ALA93: 1 veces
+THR95: 1 veces
+THR182: 1 veces
+ALA183: 1 veces
+VAL184: 1 veces
+ALA197: 1 veces
+THR199: 1 veces
+THR287: 1 veces
+ALA288: 1 veces
+VAL289: 1 veces
+ALA302: 1 veces
+THR304: 1 veces
+THR392: 1 veces
+VAL394: 1 veces
+ALA407: 1 veces
+THR409: 1 veces
+
+Ligando: C2_Oleico_0002
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+PHE515
+VAL202
+GLY514
+ALA118
+VAL516
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Oleico_0003
+Residuos únicos:
+VAL380
+VAL170
+THR276
+ASN172
+VAL275
+THR381
+ASN382
+ASN277
+THR171
+
+Repeticiones:
+VAL170: 1 veces
+THR171: 1 veces
+ASN172: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+
+Ligando: C2_Oleico_0004
+Residuos únicos:
+GLY305
+ALA432
+GLY431
+ALA328
+THR409
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+GLU326
+ALA223
+PHE515
+GLY514
+VAL516
+
+Repeticiones:
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Oleico_0005
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR409
+GLY410
+GLU116
+GLY327
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_Oleico_0006
+Residuos únicos:
+VAL380
+GLU378
+VAL170
+GLU273
+VAL275
+GLU168
+GLU482
+VAL484
+GLN379
+
+Repeticiones:
+GLU168: 1 veces
+VAL170: 1 veces
+GLU273: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+GLN379: 1 veces
+VAL380: 1 veces
+GLU482: 1 veces
+VAL484: 1 veces
+
+Ligando: C2_Oleico_0007
+Residuos únicos:
+LEU207
+LEU521
+GLN206
+GLN416
+LEU312
+ASP310
+ASP415
+GLN311
+ASP519
+GLN520
+LEU417
+
+Repeticiones:
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+GLN520: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Oleico_0008
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+ASP310
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Oleico_0009
+Residuos únicos:
+LEU521
+GLN416
+ASP310
+ASP415
+LEU312
+ASP519
+LEU417
+
+Repeticiones:
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Oleico_0010
+Residuos únicos:
+LEU207
+GLN206
+GLN416
+ASP415
+LEU312
+VAL307
+ASP205
+ASP310
+VAL202
+GLN311
+LEU417
+
+Repeticiones:
+VAL202: 1 veces
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+
+Ligando: C2_Oleico_0011
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+GLY222
+PHE306
+THR304
+GLY410
+PHE411
+VAL307
+ALA223
+GLY117
+ALA14
+VAL202
+ALA118
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+
+Ligando: C2_Oleico_0012
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+PHE411
+VAL307
+ALA223
+GLY117
+PHE515
+THR199
+GLY514
+ALA118
+VAL516
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Oleico_0013
+Residuos únicos:
+LEU103
+LEU207
+GLN206
+LEU312
+ASP205
+ASP310
+GLN311
+ASP101
+GLN102
+
+Repeticiones:
+ASP101: 1 veces
+GLN102: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+
+Ligando: C2_Oleico_0014
+Residuos únicos:
+GLY305
+GLY222
+ALA328
+THR409
+GLY410
+GLU221
+GLY327
+PHE411
+VAL307
+VAL412
+ALA223
+
+Repeticiones:
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Oleico_0015
+Residuos únicos:
+LEU207
+LEU521
+GLN416
+ASP205
+ASP310
+ASP415
+LEU312
+ASP519
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Oleico_0016
+Residuos únicos:
+VAL380
+GLU378
+VAL170
+GLU273
+VAL275
+VAL66
+GLN169
+GLU168
+GLU64
+GLN274
+GLN379
+
+Repeticiones:
+GLU64: 1 veces
+VAL66: 1 veces
+GLU168: 1 veces
+GLN169: 1 veces
+VAL170: 1 veces
+GLU273: 1 veces
+GLN274: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+GLN379: 1 veces
+VAL380: 1 veces
+
+Ligando: C2_Oleico_0017
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+PHE306
+PHE201
+VAL307
+ALA223
+GLY117
+VAL202
+VAL98
+GLY96
+THR199
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Oleico_0018
+Residuos únicos:
+LYS203
+LYS308
+LYS413
+LYS414
+LYS309
+LYS204
+
+Repeticiones:
+LYS203: 1 veces
+LYS204: 1 veces
+LYS308: 1 veces
+LYS309: 1 veces
+LYS413: 1 veces
+LYS414: 1 veces
+
+Ligando: C2_Oleico_0019
+Residuos únicos:
+LEU521
+LEU312
+ASP310
+ASP415
+GLN311
+LEU417
+
+Repeticiones:
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Oleico_0020
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Oleico_D_0001
+Residuos únicos:
+GLY305
+GLY200
+PHE306
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Oleico_D_0002
+Residuos únicos:
+ALA393
+VAL181
+VAL286
+VAL43
+ALA183
+LEU355
+VAL147
+VAL77
+VAL357
+VAL74
+LEU250
+VAL391
+LEU41
+ALA79
+ALA288
+VAL252
+VAL388
+LEU145
+
+Repeticiones:
+LEU41: 1 veces
+VAL43: 1 veces
+VAL74: 1 veces
+VAL77: 1 veces
+ALA79: 1 veces
+LEU145: 1 veces
+VAL147: 1 veces
+VAL181: 1 veces
+ALA183: 1 veces
+LEU250: 1 veces
+VAL252: 1 veces
+VAL286: 1 veces
+ALA288: 1 veces
+LEU355: 1 veces
+VAL357: 1 veces
+VAL388: 1 veces
+VAL391: 1 veces
+ALA393: 1 veces
+
+Ligando: C2_Oleico_D_0003
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+THR304
+THR409
+GLY410
+GLU116
+GLU221
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Oleico_D_0004
+Residuos únicos:
+VAL380
+GLU378
+VAL170
+GLU273
+VAL275
+GLU168
+GLN274
+GLN379
+
+Repeticiones:
+GLU168: 1 veces
+VAL170: 1 veces
+GLU273: 1 veces
+GLN274: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+GLN379: 1 veces
+VAL380: 1 veces
+
+Ligando: C2_Oleico_D_0005
+Residuos únicos:
+LEU207
+LEU521
+GLN206
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+ASP519
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Oleico_D_0006
+Residuos únicos:
+LEU207
+LEU521
+GLN416
+ASP205
+ASP310
+ASP415
+LEU312
+ASP519
+GLN520
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+GLN520: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Oleico_D_0007
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+GLY514
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_Oleico_D_0008
+Residuos únicos:
+GLY305
+GLY222
+PHE306
+ALA328
+THR409
+GLY410
+GLU116
+GLU221
+VAL412
+VAL307
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Oleico_D_0009
+Residuos únicos:
+VAL380
+VAL170
+ASN172
+VAL275
+THR381
+VAL177
+ASN382
+ASN277
+ASN486
+VAL282
+
+Repeticiones:
+VAL170: 1 veces
+ASN172: 1 veces
+VAL177: 1 veces
+VAL275: 1 veces
+ASN277: 1 veces
+VAL282: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+ASN486: 1 veces
+
+Ligando: C2_Oleico_D_0010
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ASP415
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+PHE201
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+
+Ligando: C2_Oleico_D_0011
+Residuos únicos:
+LEU207
+LEU521
+ASP205
+ASP310
+ASP415
+LEU312
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Oleico_D_0012
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+VAL202
+VAL516
+
+Repeticiones:
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Oleico_D_0013
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+GLU116
+VAL307
+GLU12
+GLY117
+ALA223
+ALA118
+
+Repeticiones:
+GLU12: 1 veces
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Oleico_D_0014
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+THR304
+PHE201
+ALA223
+GLY117
+VAL202
+VAL98
+GLY96
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+
+Ligando: C2_Oleico_D_0015
+Residuos únicos:
+GLY305
+GLY222
+THR304
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Oleico_D_0016
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+PHE306
+PHE201
+GLU116
+VAL307
+GLY117
+VAL202
+VAL98
+GLY96
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Oleico_D_0017
+Residuos únicos:
+VAL170
+GLU273
+LYS61
+VAL275
+VAL66
+GLN169
+GLU168
+GLU64
+GLN274
+
+Repeticiones:
+LYS61: 1 veces
+GLU64: 1 veces
+VAL66: 1 veces
+GLU168: 1 veces
+GLN169: 1 veces
+VAL170: 1 veces
+GLU273: 1 veces
+GLN274: 1 veces
+VAL275: 1 veces
+
+Ligando: C2_Oleico_D_0018
+Residuos únicos:
+VAL380
+GLU378
+GLU273
+VAL275
+GLN483
+GLU482
+VAL484
+GLN379
+
+Repeticiones:
+GLU273: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+GLN379: 1 veces
+VAL380: 1 veces
+GLU482: 1 veces
+GLN483: 1 veces
+VAL484: 1 veces
+
+Ligando: C2_Oleico_D_0019
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+GLU116
+GLU221
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Oleico_D_0020
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+GLY410
+GLU221
+GLY327
+PHE411
+VAL307
+VAL412
+ALA223
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY200: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Palmitico_0001
+Residuos únicos:
+VAL286
+VAL43
+VAL357
+ALA79
+THR287
+VAL181
+ALA183
+LEU355
+TYR356
+ALA288
+LEU145
+TYR460
+LEU459
+VAL147
+ALA497
+VAL252
+VAL461
+ALA393
+VAL77
+VAL391
+LEU250
+LEU41
+VAL495
+
+Repeticiones:
+LEU41: 1 veces
+VAL43: 1 veces
+VAL77: 1 veces
+ALA79: 1 veces
+LEU145: 1 veces
+VAL147: 1 veces
+VAL181: 1 veces
+ALA183: 1 veces
+LEU250: 1 veces
+VAL252: 1 veces
+VAL286: 1 veces
+THR287: 1 veces
+ALA288: 1 veces
+LEU355: 1 veces
+TYR356: 1 veces
+VAL357: 1 veces
+VAL391: 1 veces
+ALA393: 1 veces
+LEU459: 1 veces
+TYR460: 1 veces
+VAL461: 1 veces
+VAL495: 1 veces
+ALA497: 1 veces
+
+Ligando: C2_Palmitico_0002
+Residuos únicos:
+ALA333
+THR213
+ALA228
+ALA124
+THR230
+THR439
+THR318
+THR21
+THR108
+ALA437
+ALA319
+THR422
+THR4
+VAL215
+ALA109
+ALA214
+VAL320
+VAL110
+VAL424
+THR335
+THR125
+ALA20
+ALA123
+ALA19
+VAL6
+
+Repeticiones:
+THR4: 1 veces
+VAL6: 1 veces
+ALA19: 1 veces
+ALA20: 1 veces
+THR21: 1 veces
+THR108: 1 veces
+ALA109: 1 veces
+VAL110: 1 veces
+ALA123: 1 veces
+ALA124: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+ALA228: 1 veces
+THR230: 1 veces
+THR318: 1 veces
+ALA319: 1 veces
+VAL320: 1 veces
+ALA333: 1 veces
+THR335: 1 veces
+THR422: 1 veces
+VAL424: 1 veces
+ALA437: 1 veces
+THR439: 1 veces
+
+Ligando: C2_Palmitico_0003
+Residuos únicos:
+ALA333
+THR213
+ALA228
+THR230
+THR439
+THR318
+THR108
+ALA423
+THR422
+ALA319
+VAL215
+ALA214
+VAL320
+VAL424
+VAL110
+THR335
+THR125
+ALA123
+ALA437
+
+Repeticiones:
+THR108: 1 veces
+VAL110: 1 veces
+ALA123: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+ALA228: 1 veces
+THR230: 1 veces
+THR318: 1 veces
+ALA319: 1 veces
+VAL320: 1 veces
+ALA333: 1 veces
+THR335: 1 veces
+THR422: 1 veces
+ALA423: 1 veces
+VAL424: 1 veces
+ALA437: 1 veces
+THR439: 1 veces
+
+Ligando: C2_Palmitico_0004
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_Palmitico_0005
+Residuos únicos:
+LEU103
+LEU207
+GLN206
+ASP205
+ASP310
+LEU312
+ASP101
+GLN102
+
+Repeticiones:
+ASP101: 1 veces
+GLN102: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+
+Ligando: C2_Palmitico_0006
+Residuos únicos:
+VAL380
+VAL170
+THR276
+ASN172
+VAL275
+THR381
+ASN382
+ASN277
+THR171
+
+Repeticiones:
+VAL170: 1 veces
+THR171: 1 veces
+ASN172: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+
+Ligando: C2_Palmitico_0007
+Residuos únicos:
+LEU103
+LEU207
+LEU521
+GLN416
+ASP205
+ASP310
+ASP415
+LEU312
+ASP519
+GLN520
+LEU417
+
+Repeticiones:
+LEU103: 1 veces
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+GLN520: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Palmitico_0008
+Residuos únicos:
+LYS100
+LYS518
+LYS203
+LYS308
+LYS413
+LYS414
+LYS309
+LYS517
+LYS204
+LYS99
+
+Repeticiones:
+LYS99: 1 veces
+LYS100: 1 veces
+LYS203: 1 veces
+LYS204: 1 veces
+LYS308: 1 veces
+LYS309: 1 veces
+LYS413: 1 veces
+LYS414: 1 veces
+LYS517: 1 veces
+LYS518: 1 veces
+
+Ligando: C2_Palmitico_0009
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+ALA223
+GLY117
+ALA14
+GLY514
+ALA118
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_Palmitico_0010
+Residuos únicos:
+VAL380
+VAL170
+THR276
+VAL275
+THR381
+ASN382
+ASN277
+
+Repeticiones:
+VAL170: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+
+Ligando: C2_Palmitico_0011
+Residuos únicos:
+LEU207
+LEU521
+GLN416
+ASP310
+ASP415
+LEU312
+ASP519
+LEU417
+
+Repeticiones:
+LEU207: 1 veces
+ASP310: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+GLN416: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Palmitico_0012
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+
+Ligando: C2_Palmitico_0013
+Residuos únicos:
+VAL380
+GLU378
+VAL170
+GLU273
+VAL275
+LYS270
+GLU168
+GLU482
+GLN274
+
+Repeticiones:
+GLU168: 1 veces
+VAL170: 1 veces
+LYS270: 1 veces
+GLU273: 1 veces
+GLN274: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+VAL380: 1 veces
+GLU482: 1 veces
+
+Ligando: C2_Palmitico_0014
+Residuos únicos:
+GLY305
+GLY222
+GLY431
+ALA328
+GLY410
+GLU221
+GLY327
+PHE411
+VAL307
+GLU326
+ALA223
+VAL412
+
+Repeticiones:
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+
+Ligando: C2_Palmitico_0015
+Residuos únicos:
+VAL380
+GLU378
+VAL170
+GLU273
+VAL275
+GLU168
+GLN379
+
+Repeticiones:
+GLU168: 1 veces
+VAL170: 1 veces
+GLU273: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+GLN379: 1 veces
+VAL380: 1 veces
+
+Ligando: C2_Palmitico_0016
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+GLY117
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Palmitico_0017
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+GLU116
+GLU221
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLU116: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_Palmitico_0018
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+THR513
+GLY514
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_Palmitico_0019
+Residuos únicos:
+LEU207
+LEU521
+GLN206
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+ASP519
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+ASP519: 1 veces
+LEU521: 1 veces
+
+Ligando: C2_Palmitico_0020
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+GLY410
+GLU221
+GLY327
+PHE411
+VAL307
+GLU326
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLU221: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLU326: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+
+Ligando: C2_Palmitico_D_0001
+Residuos únicos:
+THR496
+ALA197
+ALA93
+ALA511
+THR182
+ALA79
+THR287
+THR95
+ALA183
+THR409
+VAL80
+THR78
+VAL394
+VAL289
+ALA302
+ALA497
+VAL498
+THR513
+ALA407
+THR199
+VAL184
+THR392
+ALA393
+THR304
+
+Repeticiones:
+THR78: 1 veces
+ALA79: 1 veces
+VAL80: 1 veces
+ALA93: 1 veces
+THR95: 1 veces
+THR182: 1 veces
+ALA183: 1 veces
+VAL184: 1 veces
+ALA197: 1 veces
+THR199: 1 veces
+THR287: 1 veces
+VAL289: 1 veces
+ALA302: 1 veces
+THR304: 1 veces
+THR392: 1 veces
+ALA393: 1 veces
+VAL394: 1 veces
+ALA407: 1 veces
+THR409: 1 veces
+THR496: 1 veces
+ALA497: 1 veces
+VAL498: 1 veces
+ALA511: 1 veces
+THR513: 1 veces
+
+Ligando: C2_Palmitico_D_0002
+Residuos únicos:
+ALA197
+ALA93
+GLN291
+THR182
+ALA301
+ALA79
+THR287
+THR95
+ALA183
+THR409
+ALA288
+ILE300
+VAL80
+THR78
+VAL394
+VAL289
+ALA302
+ALA408
+THR199
+ALA406
+ALA407
+VAL184
+THR392
+THR304
+ILE405
+
+Repeticiones:
+THR78: 1 veces
+ALA79: 1 veces
+VAL80: 1 veces
+ALA93: 1 veces
+THR95: 1 veces
+THR182: 1 veces
+ALA183: 1 veces
+VAL184: 1 veces
+ALA197: 1 veces
+THR199: 1 veces
+THR287: 1 veces
+ALA288: 1 veces
+VAL289: 1 veces
+GLN291: 1 veces
+ILE300: 1 veces
+ALA301: 1 veces
+ALA302: 1 veces
+THR304: 1 veces
+THR392: 1 veces
+VAL394: 1 veces
+ILE405: 1 veces
+ALA406: 1 veces
+ALA407: 1 veces
+ALA408: 1 veces
+THR409: 1 veces
+
+Ligando: C2_Palmitico_D_0003
+Residuos únicos:
+GLY305
+ALA432
+GLY431
+ALA328
+THR409
+GLY410
+GLY327
+VAL412
+VAL307
+ALA223
+PHE515
+GLY514
+VAL516
+
+Repeticiones:
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Palmitico_D_0004
+Residuos únicos:
+ALA333
+THR213
+ILE121
+ALA436
+ALA228
+THR230
+THR439
+THR318
+THR108
+ILE331
+ALA319
+THR422
+VAL215
+GLN112
+ILE226
+ILE435
+ALA214
+VAL320
+VAL110
+VAL424
+THR335
+THR125
+ALA123
+ALA332
+ALA437
+
+Repeticiones:
+THR108: 1 veces
+VAL110: 1 veces
+GLN112: 1 veces
+ILE121: 1 veces
+ALA123: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+ILE226: 1 veces
+ALA228: 1 veces
+THR230: 1 veces
+THR318: 1 veces
+ALA319: 1 veces
+VAL320: 1 veces
+ILE331: 1 veces
+ALA332: 1 veces
+ALA333: 1 veces
+THR335: 1 veces
+THR422: 1 veces
+VAL424: 1 veces
+ILE435: 1 veces
+ALA436: 1 veces
+ALA437: 1 veces
+THR439: 1 veces
+
+Ligando: C2_Palmitico_D_0005
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+THR304
+THR409
+PHE201
+GLY410
+ALA223
+GLY117
+VAL202
+VAL98
+GLY96
+THR199
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_Palmitico_D_0006
+Residuos únicos:
+THR213
+THR125
+ALA214
+ALA228
+ALA123
+THR230
+ALA19
+THR21
+THR4
+THR108
+VAL215
+VAL6
+ILE17
+ALA109
+ALA5
+VAL110
+
+Repeticiones:
+THR4: 1 veces
+ALA5: 1 veces
+VAL6: 1 veces
+ILE17: 1 veces
+ALA19: 1 veces
+THR21: 1 veces
+THR108: 1 veces
+ALA109: 1 veces
+VAL110: 1 veces
+ALA123: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+ALA228: 1 veces
+THR230: 1 veces
+
+Ligando: C2_Palmitico_D_0007
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+THR304
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+ALA14
+VAL202
+GLY96
+PHE201
+THR199
+ALA118
+
+Repeticiones:
+ALA14: 1 veces
+GLY96: 1 veces
+ALA118: 1 veces
+THR199: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Palmitico_D_0008
+Residuos únicos:
+THR213
+THR125
+ALA123
+THR230
+ALA19
+THR21
+THR4
+THR108
+VAL215
+VAL6
+ALA214
+ALA109
+ALA5
+VAL110
+
+Repeticiones:
+THR4: 1 veces
+ALA5: 1 veces
+VAL6: 1 veces
+ALA19: 1 veces
+THR21: 1 veces
+THR108: 1 veces
+ALA109: 1 veces
+VAL110: 1 veces
+ALA123: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+THR230: 1 veces
+
+Ligando: C2_Palmitico_D_0009
+Residuos únicos:
+ALA333
+THR213
+ALA436
+ALA228
+THR230
+THR439
+THR318
+THR21
+THR108
+ILE331
+ALA437
+ALA319
+ALA5
+THR422
+THR4
+VAL215
+ALA109
+ILE435
+ALA214
+VAL320
+VAL110
+VAL424
+THR335
+THR125
+ALA123
+ALA332
+VAL6
+
+Repeticiones:
+THR4: 1 veces
+ALA5: 1 veces
+VAL6: 1 veces
+THR21: 1 veces
+THR108: 1 veces
+ALA109: 1 veces
+VAL110: 1 veces
+ALA123: 1 veces
+THR125: 1 veces
+THR213: 1 veces
+ALA214: 1 veces
+VAL215: 1 veces
+ALA228: 1 veces
+THR230: 1 veces
+THR318: 1 veces
+ALA319: 1 veces
+VAL320: 1 veces
+ILE331: 1 veces
+ALA332: 1 veces
+ALA333: 1 veces
+THR335: 1 veces
+THR422: 1 veces
+VAL424: 1 veces
+ILE435: 1 veces
+ALA436: 1 veces
+ALA437: 1 veces
+THR439: 1 veces
+
+Ligando: C2_Palmitico_D_0010
+Residuos únicos:
+GLY305
+ALA432
+ALA328
+THR409
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+GLY514
+VAL516
+
+Repeticiones:
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_Palmitico_D_0011
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+THR304
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Palmitico_D_0012
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+THR304
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_Palmitico_D_0013
+Residuos únicos:
+LEU103
+LEU207
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+ASP101
+LEU417
+GLN102
+
+Repeticiones:
+ASP101: 1 veces
+GLN102: 1 veces
+LEU103: 1 veces
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+
+Ligando: C2_Palmitico_D_0014
+Residuos únicos:
+VAL380
+VAL170
+THR276
+THR485
+VAL275
+THR381
+ASN382
+ASN486
+ASN277
+VAL484
+
+Repeticiones:
+VAL170: 1 veces
+VAL275: 1 veces
+THR276: 1 veces
+ASN277: 1 veces
+VAL380: 1 veces
+THR381: 1 veces
+ASN382: 1 veces
+VAL484: 1 veces
+THR485: 1 veces
+ASN486: 1 veces
+
+Ligando: C2_Palmitico_D_0015
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+GLY410
+PHE411
+VAL307
+ALA223
+ASP205
+ASP310
+VAL202
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ASP205: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+
+Ligando: C2_Palmitico_D_0016
+Residuos únicos:
+VAL380
+GLU378
+GLU273
+VAL275
+GLN483
+GLU482
+VAL484
+GLN379
+
+Repeticiones:
+GLU273: 1 veces
+VAL275: 1 veces
+GLU378: 1 veces
+GLN379: 1 veces
+VAL380: 1 veces
+GLU482: 1 veces
+GLN483: 1 veces
+VAL484: 1 veces
+
+Ligando: C2_Palmitico_D_0017
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+PHE306
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+THR513
+GLY514
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_Palmitico_D_0018
+Residuos únicos:
+GLY305
+GLY222
+ALA328
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+ASP310
+ASP415
+
+Repeticiones:
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ASP310: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+ASP415: 1 veces
+
+Ligando: C2_Palmitico_D_0019
+Residuos únicos:
+LEU103
+LEU207
+GLN206
+LEU312
+ASP205
+ASP310
+GLN311
+
+Repeticiones:
+LEU103: 1 veces
+ASP205: 1 veces
+GLN206: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+
+Ligando: C2_Palmitico_D_0020
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+PHE306
+THR304
+PHE201
+VAL307
+ALA223
+GLY117
+VAL202
+VAL98
+GLY96
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+
+Ligando: C2_TioflavinaT_0001
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY222
+ALA328
+THR409
+GLY410
+GLY327
+ALA223
+VAL202
+GLY514
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_TioflavinaT_0002
+Residuos únicos:
+GLY305
+GLY200
+PHE306
+ALA328
+THR409
+GLY410
+GLY327
+VAL307
+ALA223
+GLY117
+ALA14
+VAL202
+ALA118
+
+Repeticiones:
+ALA14: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_TioflavinaT_0003
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+THR304
+GLY410
+ALA223
+GLY117
+ALA14
+VAL98
+GLY96
+ALA118
+
+Repeticiones:
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_TioflavinaT_0004
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+GLY410
+VAL412
+VAL307
+ALA223
+GLY117
+VAL202
+GLY96
+PHE201
+ALA118
+
+Repeticiones:
+GLY96: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_TioflavinaT_0006
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+ALA328
+GLY410
+VAL412
+VAL307
+ALA223
+GLY117
+GLY514
+ALA118
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+ALA432: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_TioflavinaT_0008
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+GLY222
+PHE306
+ALA328
+GLY410
+PHE411
+VAL307
+ALA223
+GLY117
+ALA14
+GLY96
+ALA118
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+
+Ligando: C2_TioflavinaT_0009
+Residuos únicos:
+GLY305
+ALA432
+GLY222
+GLY431
+ALA328
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+THR513
+GLY514
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_TioflavinaT_0012
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY222
+PHE306
+ALA328
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+THR513
+GLY514
+VAL516
+
+Repeticiones:
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_TioflavinaT_0014
+Residuos únicos:
+GLY305
+GLY200
+GLY222
+ALA328
+GLY410
+PHE411
+VAL412
+ALA223
+GLY117
+PHE515
+GLY514
+ALA118
+VAL516
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_TioflavinaT_0015
+Residuos únicos:
+GLY305
+GLY200
+PHE306
+GLY410
+PHE411
+VAL412
+VAL307
+ALA223
+GLY117
+ALA14
+VAL202
+GLY96
+ALA118
+
+Repeticiones:
+ALA14: 1 veces
+GLY96: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+
+Ligando: C2_TioflavinaT_0016
+Residuos únicos:
+GLY305
+GLY200
+PHE306
+ALA328
+THR304
+GLY410
+VAL307
+ALA223
+VAL202
+PHE201
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+
+Ligando: C2_TioflavinaT_0018
+Residuos únicos:
+GLY305
+ALA432
+GLY200
+GLY222
+GLY431
+PHE306
+ALA328
+THR409
+GLY410
+GLY327
+PHE411
+VAL412
+VAL307
+ALA223
+THR513
+VAL202
+GLY514
+ALA118
+
+Repeticiones:
+ALA118: 1 veces
+GLY200: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+GLY305: 1 veces
+PHE306: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+PHE411: 1 veces
+VAL412: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_TioflavinaT_0019
+Residuos únicos:
+GLY13
+GLY305
+GLY200
+ALA118
+GLY222
+THR304
+PHE201
+ALA223
+GLY117
+VAL202
+VAL98
+GLY96
+ALA14
+
+Repeticiones:
+GLY13: 1 veces
+ALA14: 1 veces
+GLY96: 1 veces
+VAL98: 1 veces
+GLY117: 1 veces
+ALA118: 1 veces
+GLY200: 1 veces
+PHE201: 1 veces
+VAL202: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+
+Ligando: C2_TioflavinaT_0020
+Residuos únicos:
+GLY305
+GLY222
+ALA328
+THR304
+THR409
+GLY410
+GLY327
+VAL412
+ALA223
+GLY117
+PHE515
+GLY514
+ALA118
+VAL516
+
+Repeticiones:
+GLY117: 1 veces
+ALA118: 1 veces
+GLY222: 1 veces
+ALA223: 1 veces
+THR304: 1 veces
+GLY305: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+THR409: 1 veces
+GLY410: 1 veces
+VAL412: 1 veces
+GLY514: 1 veces
+PHE515: 1 veces
+VAL516: 1 veces
+
+Ligando: C2_TioflavinaT_D_0009
+Residuos únicos:
+GLY305
+ALA432
+GLY431
+ALA328
+GLY410
+GLY327
+VAL307
+ALA223
+THR513
+GLY514
+
+Repeticiones:
+ALA223: 1 veces
+GLY305: 1 veces
+VAL307: 1 veces
+GLY327: 1 veces
+ALA328: 1 veces
+GLY410: 1 veces
+GLY431: 1 veces
+ALA432: 1 veces
+THR513: 1 veces
+GLY514: 1 veces
+
+Ligando: C2_TioflavinaT_D_0014
+Residuos únicos:
+LEU207
+LEU521
+LEU312
+ASP205
+ASP310
+ASP415
+GLN311
+LEU417
+
+Repeticiones:
+ASP205: 1 veces
+LEU207: 1 veces
+ASP310: 1 veces
+GLN311: 1 veces
+LEU312: 1 veces
+ASP415: 1 veces
+LEU417: 1 veces
+LEU521: 1 veces

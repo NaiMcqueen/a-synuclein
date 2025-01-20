@@ -1,0 +1,3130 @@
+
+Ligando: lig_0C_tioT_out_0001
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+VAL37: 4 veces
+TYR39: 4 veces
+
+Ligando: lig_0C_tioT_out_0002
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 5 veces
+VAL37: 4 veces
+TYR39: 4 veces
+
+Ligando: lig_0C_tioT_out_0003
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+VAL37: 5 veces
+TYR39: 4 veces
+
+Ligando: lig_0C_tioT_out_0005
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+TYR39: 4 veces
+VAL37: 4 veces
+
+Ligando: lig_0C_tioT_out_0007
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+VAL37: 4 veces
+TYR39: 4 veces
+
+Ligando: lig_0C_tioT_out_0008
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+VAL37: 4 veces
+TYR39: 4 veces
+
+Ligando: lig_0C_tioT_out_0009
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+TYR39: 4 veces
+VAL37: 3 veces
+
+Ligando: lig_0C_tioT_out_0010
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 5 veces
+TYR39: 4 veces
+VAL37: 3 veces
+
+Ligando: lig_0C_tioT_out_0012
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+TYR39: 4 veces
+VAL37: 3 veces
+
+Ligando: lig_0C_tioT_out_0013
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+VAL37: 4 veces
+TYR39: 4 veces
+
+Ligando: lig_0C_tioT_out_0014
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+VAL37: 3 veces
+TYR39: 4 veces
+
+Ligando: lig_0C_tioT_out_0015
+Residuos únicos:
+THR64
+GLY101
+ASN65
+LYS102
+
+Repeticiones:
+THR64: 4 veces
+ASN65: 3 veces
+GLY101: 4 veces
+LYS102: 4 veces
+
+Ligando: lig_0C_tioT_out_0016
+Residuos únicos:
+THR64
+GLY101
+ASN65
+LYS102
+
+Repeticiones:
+THR64: 4 veces
+ASN65: 3 veces
+GLY101: 3 veces
+LYS102: 4 veces
+
+Ligando: lig_0C_tioT_out_0017
+Residuos únicos:
+THR64
+GLY101
+ASN65
+LYS102
+
+Repeticiones:
+THR64: 4 veces
+ASN65: 4 veces
+GLY101: 3 veces
+LYS102: 4 veces
+
+Ligando: lig_0C_tioT_out_0018
+Residuos únicos:
+THR64
+GLY101
+ASN65
+LYS102
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+GLY101: 4 veces
+LYS102: 4 veces
+
+Ligando: lig_0C_tioT_out_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+LYS102
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+LEU100: 1 veces
+GLY101: 4 veces
+LYS102: 4 veces
+
+Ligando: lig_0C_tioT_out_0020
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+GLY101: 3 veces
+LYS102: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+
+Ligando: lig_1S_palmitico_out_0001
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+VAL37: 5 veces
+TYR39: 5 veces
+
+Ligando: lig_1S_palmitico_out_0002
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+TYR39: 3 veces
+VAL37: 2 veces
+
+Ligando: lig_1S_palmitico_out_0003
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+GLY101: 3 veces
+VAL70: 1 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_0004
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLY101: 3 veces
+GLN99: 1 veces
+LEU100: 1 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_0005
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_0006
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLY101: 3 veces
+GLN99: 1 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_0007
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+VAL66
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 2 veces
+VAL66: 1 veces
+GLY67: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY68: 1 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_0008
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+LEU100: 1 veces
+
+Ligando: lig_1S_palmitico_out_0009
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+VAL63
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 4 veces
+VAL63: 1 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_0010
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+VAL66
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 2 veces
+VAL66: 1 veces
+GLY67: 2 veces
+VAL70: 2 veces
+GLN99: 1 veces
+LEU100: 2 veces
+GLY101: 2 veces
+GLY68: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_0011
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 1 veces
+
+Ligando: lig_1S_palmitico_out_0012
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_0013
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_0015
+Residuos únicos:
+THR64
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+GLY101: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_0016
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_0017
+Residuos únicos:
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LYS102: 1 veces
+LEU100: 1 veces
+
+Ligando: lig_1S_palmitico_out_0018
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+THR64: 2 veces
+ASN65: 2 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_0020
+Residuos únicos:
+THR64
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0001
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_0002
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_0003
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 2 veces
+LYS102: 2 veces
+LEU100: 1 veces
+
+Ligando: lig_2M_oleico_out_0004
+Residuos únicos:
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLY101: 3 veces
+GLN99: 2 veces
+LYS102: 2 veces
+LEU100: 1 veces
+
+Ligando: lig_2M_oleico_out_0005
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY101: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 1 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_0006
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0007
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0008
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+VAL70: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0009
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLY101: 3 veces
+GLN99: 1 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_0010
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+VAL70: 3 veces
+GLN99: 3 veces
+ASN65: 2 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0011
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 1 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0012
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+THR64: 2 veces
+ASN65: 3 veces
+LEU100: 1 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0013
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 4 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_0015
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_0016
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+GLY101: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 1 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_0017
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLY101: 4 veces
+GLN99: 3 veces
+LYS102: 2 veces
+LEU100: 2 veces
+
+Ligando: lig_2M_oleico_out_0018
+Residuos únicos:
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 4 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_0020
+Residuos únicos:
+LYS60
+VAL63
+LYS45
+VAL66
+
+Repeticiones:
+LYS45: 3 veces
+VAL66: 3 veces
+LYS60: 2 veces
+VAL63: 3 veces
+
+Ligando: lig_3P_araquidonico_out_0001
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+GLY101: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LYS102: 3 veces
+LEU100: 1 veces
+
+Ligando: lig_3P_araquidonico_out_0002
+Residuos únicos:
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+ASN65: 2 veces
+GLY67: 1 veces
+GLY68: 2 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0003
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+THR64: 2 veces
+GLN99: 2 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0004
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0005
+Residuos únicos:
+THR64
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLY101: 3 veces
+GLN99: 1 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_0006
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 4 veces
+THR64: 1 veces
+ASN65: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0007
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 4 veces
+LYS102: 2 veces
+LEU100: 1 veces
+
+Ligando: lig_3P_araquidonico_out_0008
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY101: 4 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_0009
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+VAL70: 4 veces
+GLN99: 4 veces
+ASN65: 4 veces
+LEU100: 4 veces
+GLY101: 4 veces
+THR64: 2 veces
+LYS102: 1 veces
+
+Ligando: lig_3P_araquidonico_out_0010
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 4 veces
+ASN65: 3 veces
+VAL70: 1 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 4 veces
+
+Ligando: lig_3P_araquidonico_out_0011
+Residuos únicos:
+THR64
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_0012
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+THR64: 1 veces
+ASN65: 3 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0013
+Residuos únicos:
+THR64
+VAL66
+VAL49
+VAL63
+LYS45
+LYS60
+
+Repeticiones:
+LYS45: 3 veces
+VAL66: 3 veces
+VAL49: 2 veces
+LYS60: 3 veces
+VAL63: 3 veces
+THR64: 1 veces
+
+Ligando: lig_3P_araquidonico_out_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 4 veces
+THR64: 2 veces
+ASN65: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0015
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_0016
+Residuos únicos:
+GLY93
+PHE94
+VAL95
+THR92
+ALA85
+GLY84
+
+Repeticiones:
+GLY93: 3 veces
+PHE94: 3 veces
+VAL95: 3 veces
+GLY84: 3 veces
+ALA85: 3 veces
+THR92: 1 veces
+
+Ligando: lig_3P_araquidonico_out_0017
+Residuos únicos:
+VAL66
+VAL49
+VAL63
+LYS45
+LYS60
+
+Repeticiones:
+LYS45: 3 veces
+VAL66: 3 veces
+VAL49: 1 veces
+LYS60: 2 veces
+VAL63: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0018
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+THR64: 2 veces
+ASN65: 3 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 4 veces
+GLN99: 4 veces
+ASN65: 3 veces
+LEU100: 3 veces
+THR64: 2 veces
+GLY101: 2 veces
+LYS102: 1 veces
+
+Ligando: lig_3P_araquidonico_out_0020
+Residuos únicos:
+LYS60
+VAL63
+LYS45
+VAL66
+
+Repeticiones:
+LYS45: 3 veces
+VAL63: 4 veces
+VAL66: 3 veces
+LYS60: 2 veces
+
+Ligando: lig_3P_doco_out_0001
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+VAL66
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 3 veces
+GLY101: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_0002
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+ASN65: 4 veces
+VAL70: 2 veces
+GLY101: 3 veces
+THR64: 2 veces
+GLN99: 1 veces
+LYS102: 3 veces
+LEU100: 1 veces
+
+Ligando: lig_3P_doco_out_0003
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 4 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_0004
+Residuos únicos:
+THR64
+ASN65
+GLY67
+GLN99
+LYS102
+GLY101
+VAL70
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+GLY101: 3 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_0005
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+ALA69
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 3 veces
+ALA69: 1 veces
+LEU100: 1 veces
+GLY101: 2 veces
+LYS102: 3 veces
+GLN99: 1 veces
+
+Ligando: lig_3P_doco_out_0006
+Residuos únicos:
+THR64
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 4 veces
+VAL70: 4 veces
+GLY101: 3 veces
+GLN99: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_0007
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 3 veces
+GLY101: 4 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 3 veces
+LYS102: 4 veces
+LEU100: 2 veces
+
+Ligando: lig_3P_doco_out_0008
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+ASN65: 4 veces
+VAL70: 4 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 4 veces
+THR64: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_0009
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LYS102: 4 veces
+LEU100: 2 veces
+
+Ligando: lig_3P_doco_out_0010
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_0011
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 4 veces
+VAL70: 4 veces
+GLN99: 3 veces
+GLY101: 2 veces
+LYS102: 3 veces
+LEU100: 1 veces
+
+Ligando: lig_3P_doco_out_0012
+Residuos únicos:
+VAL37
+SER42
+LYS43
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 3 veces
+TYR39: 4 veces
+LYS43: 2 veces
+VAL37: 2 veces
+SER42: 1 veces
+
+Ligando: lig_3P_doco_out_0013
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 4 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 4 veces
+LEU100: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+ASN65: 4 veces
+VAL70: 4 veces
+GLN99: 3 veces
+THR64: 1 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_0015
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_0016
+Residuos únicos:
+THR64
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 4 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_0017
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+GLY101: 4 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_0018
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 4 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 4 veces
+LYS102: 4 veces
+
+Ligando: lig_3P_doco_out_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 4 veces
+GLN99: 4 veces
+LEU100: 2 veces
+GLY101: 3 veces
+VAL70: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_0020
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+LEU100: 2 veces
+
+Ligando: lig_0C_tioT_out_C5_2_0007
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 4 veces
+TYR39: 4 veces
+VAL37: 3 veces
+
+Ligando: lig_0C_tioT_out_C5_2_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 2 veces
+GLN99: 2 veces
+THR64: 2 veces
+ASN65: 3 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0001
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY101: 3 veces
+VAL70: 1 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0002
+Residuos únicos:
+THR64
+ASN65
+VAL66
+GLY67
+LYS102
+GLY101
+VAL70
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY101: 3 veces
+LYS102: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0003
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+ALA69
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 2 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 2 veces
+ALA69: 1 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0005
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0006
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+GLY68: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0007
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0008
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+THR64: 1 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0009
+Residuos únicos:
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+ALA69
+GLY68
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+ASN65: 2 veces
+GLY67: 2 veces
+GLY68: 2 veces
+GLY101: 2 veces
+ALA69: 1 veces
+LEU100: 1 veces
+LYS102: 1 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0012
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 1 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+LEU100: 1 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0013
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+THR64: 1 veces
+ASN65: 2 veces
+LYS102: 1 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0015
+Residuos únicos:
+LEU100
+ASN65
+GLY67
+GLN99
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0016
+Residuos únicos:
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 1 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0017
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 1 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0018
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 3 veces
+
+Ligando: lig_1S_palmitico_out_C5_2_0020
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+GLN99: 3 veces
+THR64: 2 veces
+ASN65: 2 veces
+VAL70: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0001
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0002
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+VAL66
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 2 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0004
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0005
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY101: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0006
+Residuos únicos:
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+GLY101
+VAL70
+GLY68
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+GLY101: 3 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LEU100: 1 veces
+LYS102: 1 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0007
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLN99: 2 veces
+LEU100: 3 veces
+GLY101: 3 veces
+VAL70: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0008
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0009
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+VAL66
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 2 veces
+GLN99: 1 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0011
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLY101: 3 veces
+GLN99: 1 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0012
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLY101: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0013
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+GLY101: 4 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LYS102: 4 veces
+LEU100: 1 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0017
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+ALA69
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 2 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 2 veces
+GLY101: 3 veces
+ALA69: 1 veces
+GLN99: 1 veces
+LYS102: 2 veces
+LEU100: 1 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0018
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 3 veces
+THR64: 2 veces
+ASN65: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+VAL70: 2 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_2M_oleico_out_C5_2_0020
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+GLY101: 3 veces
+LYS102: 4 veces
+VAL70: 1 veces
+GLN99: 1 veces
+LEU100: 1 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0001
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+GLY101
+VAL70
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+GLY101: 3 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0002
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+GLY101: 3 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0003
+Residuos únicos:
+VAL37
+TYR39
+LYS34
+
+Repeticiones:
+LYS34: 5 veces
+VAL37: 3 veces
+TYR39: 4 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0004
+Residuos únicos:
+THR64
+LEU100
+ASN65
+VAL66
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 2 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0005
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLY101: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0006
+Residuos únicos:
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+ASN65: 2 veces
+GLY67: 1 veces
+GLY68: 2 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0007
+Residuos únicos:
+LEU100
+ASN65
+VAL66
+GLY67
+GLN99
+LYS102
+GLY101
+VAL70
+GLY68
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LYS102: 1 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0008
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 4 veces
+THR64: 2 veces
+ASN65: 2 veces
+LEU100: 1 veces
+GLY101: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0009
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 2 veces
+GLN99: 3 veces
+GLY101: 4 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0012
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+ALA69
+GLY68
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 3 veces
+GLN99: 1 veces
+LEU100: 2 veces
+GLY101: 3 veces
+ALA69: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0013
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0015
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 2 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0016
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY67: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+GLY68: 1 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0017
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+GLY101: 4 veces
+THR64: 2 veces
+ASN65: 3 veces
+LYS102: 3 veces
+VAL70: 2 veces
+LEU100: 2 veces
+GLN99: 1 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0018
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLY101: 4 veces
+GLN99: 2 veces
+LYS102: 3 veces
+LEU100: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+VAL70: 4 veces
+GLN99: 4 veces
+THR64: 2 veces
+ASN65: 3 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_araquidonico_out_C5_2_0020
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+ASN65: 3 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0001
+Residuos únicos:
+THR64
+LEU100
+ASN65
+VAL66
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0003
+Residuos únicos:
+THR64
+LEU100
+ASN65
+VAL66
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0004
+Residuos únicos:
+THR64
+LEU100
+ASN65
+VAL66
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0005
+Residuos únicos:
+LEU100
+ASN65
+VAL66
+GLY67
+GLN99
+LYS102
+GLY101
+VAL70
+GLY68
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 2 veces
+LEU100: 3 veces
+GLY101: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0006
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLN99: 3 veces
+LEU100: 3 veces
+GLY101: 3 veces
+VAL70: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0007
+Residuos únicos:
+THR64
+LEU100
+ASN65
+VAL66
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+GLY67: 3 veces
+THR64: 2 veces
+ASN65: 3 veces
+VAL66: 1 veces
+GLY68: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0008
+Residuos únicos:
+THR64
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 2 veces
+GLN99: 2 veces
+GLY101: 3 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0009
+Residuos únicos:
+THR64
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 4 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 4 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0010
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+VAL66
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL66: 1 veces
+GLY67: 2 veces
+GLY68: 2 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0011
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+THR64: 1 veces
+LEU100: 3 veces
+GLY101: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0012
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLY101: 3 veces
+GLN99: 1 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0013
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLY67
+GLN99
+LYS102
+VAL70
+GLY101
+GLY68
+
+Repeticiones:
+ASN65: 3 veces
+GLY67: 3 veces
+VAL70: 3 veces
+THR64: 1 veces
+GLY68: 2 veces
+GLN99: 2 veces
+GLY101: 2 veces
+LEU100: 1 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0014
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+THR64: 2 veces
+LEU100: 2 veces
+GLY101: 3 veces
+LYS102: 4 veces
+
+Ligando: lig_3P_doco_out_C5_2_0015
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+VAL70: 3 veces
+GLN99: 3 veces
+THR64: 2 veces
+ASN65: 3 veces
+GLY101: 3 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0016
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 4 veces
+VAL70: 3 veces
+GLY101: 3 veces
+GLN99: 2 veces
+LEU100: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0017
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+VAL70
+GLY101
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+LEU100: 2 veces
+GLY101: 2 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0018
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 3 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 3 veces
+LEU100: 1 veces
+LYS102: 3 veces
+
+Ligando: lig_3P_doco_out_C5_2_0019
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 1 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 4 veces
+GLY101: 4 veces
+LEU100: 3 veces
+LYS102: 2 veces
+
+Ligando: lig_3P_doco_out_C5_2_0020
+Residuos únicos:
+THR64
+LEU100
+ASN65
+GLN99
+LYS102
+GLY101
+VAL70
+
+Repeticiones:
+THR64: 2 veces
+ASN65: 3 veces
+VAL70: 3 veces
+GLN99: 3 veces
+GLY101: 4 veces
+LYS102: 4 veces
+LEU100: 2 veces

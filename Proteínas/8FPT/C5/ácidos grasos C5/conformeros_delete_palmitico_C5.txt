@@ -1,0 +1,1 @@
+delete lig_1S_palmitico_out_C5_2_0011 and lig_1S_palmitico_out_C5_2_0010 and lig_1S_palmitico_out_C5_2_0019 and lig_1S_palmitico_out_C5_2_0004

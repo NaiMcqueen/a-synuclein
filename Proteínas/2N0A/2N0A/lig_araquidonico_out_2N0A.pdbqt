@@ -1,0 +1,756 @@
+MODEL 1
+REMARK VINA RESULT:      -2.4      0.000      0.000
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201      67.153 144.656  14.708  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201      65.969 145.295  14.653  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201      67.978 144.985  15.546  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201      67.461 143.557  13.733  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201      68.297 142.454  14.392  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201      69.621 142.246  13.646  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201      69.829 143.339  12.585  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201      71.311 143.669  12.340  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201      71.764 143.362  10.897  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201      71.488 144.487   9.879  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201      71.527 144.129   8.377  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201      72.908 143.789   7.798  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201      72.910 142.533   6.910  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201      73.581 141.313   7.562  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201      74.332 141.723   8.839  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201      74.872 140.528   9.643  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201      74.231 140.384  11.033  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201      73.039 139.414  10.984  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201      71.774 139.967  11.661  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201      70.517 139.869  10.784  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201      70.888 139.849   9.297  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201      69.943 140.726   8.481  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -2.4     73.192     76.726
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201     132.778 103.393  14.992  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201     132.446 104.056  16.116  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201     133.289 102.287  15.073  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201     132.532 104.019  13.650  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201     133.652 103.665  12.664  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201     134.411 104.922  12.219  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201     135.557 105.242  13.191  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201     136.611 104.124  13.274  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201     136.613 103.401  14.637  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201     137.530 104.034  15.704  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201     138.301 105.317  15.326  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201     137.930 106.585  16.110  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201     138.548 106.640  17.518  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201     137.526 106.456  18.651  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201     137.543 105.010  19.170  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201     138.958 104.419  19.296  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201     139.648 104.760  20.626  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201     140.952 105.536  20.379  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201     141.793 104.964  19.225  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201     142.127 105.998  18.140  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201     141.813 105.447  16.745  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201     142.974 105.683  15.783  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -2.3     63.513     66.081
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201     123.246 107.415  23.943  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201     122.625 108.015  24.976  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201     124.123 108.011  23.338  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201     122.849 106.027  23.530  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201     123.466 104.977  24.462  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201     122.477 104.566  25.559  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201     121.940 103.148  25.309  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201     122.895 102.278  24.472  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201     123.266 100.953  25.170  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201     123.586  99.786  24.214  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201     123.086  99.887  22.756  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201     121.729  99.232  22.459  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201     120.544 100.211  22.538  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201     119.835 100.218  23.902  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201     119.758  98.797  24.482  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201     120.456  98.653  25.846  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201     119.683  99.307  27.002  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201     120.477 100.485  27.588  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201     119.602 101.704  27.927  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201     118.415 101.891  26.969  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201     118.440 103.285  26.333  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201     119.090 104.305  27.265  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -2.2     28.912     31.185
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201      63.640 111.782   3.091  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201      64.087 111.704   4.359  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201      62.480 111.496   2.842  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201      64.570 112.204   1.991  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201      65.811 112.906   2.556  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201      65.569 114.412   2.711  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201      66.267 114.953   3.969  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201      66.953 113.854   4.800  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201      68.425 114.178   5.126  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201      69.157 115.013   4.055  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201      69.994 114.259   2.999  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201      69.264 113.877   1.703  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201      68.663 115.082   0.958  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201      69.550 115.612  -0.181  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201      70.624 114.579  -0.560  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201      70.522 114.095  -2.017  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201      69.770 112.763  -2.168  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201      70.754 111.582  -2.189  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201      70.394 110.470  -1.189  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201      70.721 110.827   0.268  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201      72.142 111.389   0.388  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201      73.153 110.279   0.666  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -2.2     18.887     22.288
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201      96.763 138.996  15.469  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201      96.869 138.711  16.781  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201      97.750 138.919  14.754  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201      95.443 139.423  14.896  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201      95.572 140.752  14.143  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201      94.820 140.705  12.808  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201      94.299 142.098  12.423  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201      93.133 142.574  13.308  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201      91.775 141.977  12.884  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201      90.773 141.763  14.037  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201      89.772 140.594  13.918  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201      88.524 140.856  13.061  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201      87.749 139.577  12.699  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201      88.153 138.349  13.531  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201      88.471 137.154  12.619  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201      88.328 137.470  11.120  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201      89.587 137.142  10.302  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201      90.217 138.424   9.735  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201      91.079 139.184  10.758  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201      92.216 138.338  11.350  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201      92.092 138.247  12.875  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201      92.887 137.065  13.424  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -2.1     75.467     78.462
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201     138.398 176.418 -22.920  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201     139.509 176.970 -22.398  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201     138.495 175.631 -23.849  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201     137.048 176.781 -22.372  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201     136.973 176.505 -20.866  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201     135.942 175.412 -20.558  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201     135.480 174.715 -21.847  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201     133.970 174.422 -21.869  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201     133.464 173.781 -20.560  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201     132.325 174.551 -19.860  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201     132.696 175.474 -18.679  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201     132.950 176.948 -19.025  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201     132.381 177.365 -20.393  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201     133.396 178.089 -21.292  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201     132.955 178.036 -22.763  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201     132.024 176.854 -23.083  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201     130.675 177.282 -23.681  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201     129.513 176.581 -22.958  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201     129.886 175.195 -22.404  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201     129.807 174.075 -23.452  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201     130.764 172.930 -23.102  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201     130.047 171.829 -22.325  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -2.0     32.184     34.668
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201      95.876 131.296  38.044  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201      96.893 131.728  38.813  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201      96.044 131.158  36.843  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201      94.539 131.001  38.661  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201      93.400 131.312  37.682  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201      92.784 132.686  37.973  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201      92.797 133.570  36.716  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201      93.065 132.779  35.423  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201      91.910 132.884  34.405  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201      91.288 131.536  33.991  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201      90.049 131.041  34.768  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201      90.328 130.267  36.065  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201      89.589 130.832  37.290  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201      88.221 131.450  36.958  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201      88.037 132.790  37.689  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201      89.164 133.800  37.413  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201      89.063 134.468  36.032  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201      89.764 135.836  36.038  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201      89.018 136.908  35.225  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201      88.774 138.208  36.006  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201      89.232 138.066  37.462  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201      89.991 139.306  37.926  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -2.0     74.010     77.595
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201     128.422 126.874 -44.353  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201     127.389 127.424 -43.687  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201     128.493 126.997 -45.565  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201     129.471 126.101 -43.607  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201     129.034 124.647 -43.389  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201     129.637 124.078 -42.099  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201     129.050 124.780 -40.864  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201     130.127 125.310 -39.902  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201     129.937 126.801 -39.552  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201     128.469 127.263 -39.458  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201     127.774 127.187 -38.081  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201     126.297 126.765 -38.090  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201     126.075 125.317 -38.561  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201     124.682 124.762 -38.221  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201     123.948 125.694 -37.244  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201     123.195 124.945 -36.131  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201     123.655 125.327 -34.716  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201     125.161 125.638 -34.700  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201     126.019 124.476 -34.171  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201     126.947 123.868 -35.234  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201     128.182 124.749 -35.449  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201     129.132 124.128 -36.470  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -1.9     74.998     78.549
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  C10_12 
+REMARK   10  A    between atoms: C10_12  and  C11_13 
+REMARK   11  A    between atoms: C11_13  and  C12_14 
+REMARK   12  A    between atoms: C12_14  and  C13_15 
+REMARK   13  A    between atoms: C13_15  and  C14_16 
+REMARK   14  A    between atoms: C14_16  and  C15_17 
+REMARK   15  A    between atoms: C15_17  and  C16_18 
+REMARK   16  A    between atoms: C16_18  and  C17_19 
+REMARK   17  A    between atoms: C17_19  and  C18_20 
+REMARK   18  A    between atoms: C18_20  and  C19_21 
+ROOT
+ATOM      1  C1  DCR F 201     132.786 103.491  15.122  1.00  0.00     0.172 C 
+ATOM      2  O1  DCR F 201     132.453 104.217  16.206  1.00  0.00    -0.648 OA
+ATOM      3  O2  DCR F 201     132.964 102.289  15.233  1.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  DCR F 201     132.952 104.163  13.789  1.00  0.00     0.113 C 
+BRANCH   4   5
+ATOM      5  C3  DCR F 201     133.906 103.370  12.888  1.00  0.00     0.010 C 
+BRANCH   5   6
+ATOM      6  C4  DCR F 201     135.018 104.271  12.336  1.00  0.00     0.001 C 
+BRANCH   6   7
+ATOM      7  C5  DCR F 201     136.302 104.129  13.169  1.00  0.00     0.000 C 
+BRANCH   7   8
+ATOM      8  C6  DCR F 201     136.292 102.897  14.091  1.00  0.00     0.000 C 
+BRANCH   8   9
+ATOM      9  C7  DCR F 201     136.686 103.232  15.544  1.00  0.00     0.000 C 
+BRANCH   9  10
+ATOM     10  C8  DCR F 201     138.203 103.238  15.819  1.00  0.00     0.000 C 
+BRANCH  10  11
+ATOM     11  C9  DCR F 201     138.677 103.535  17.258  1.00  0.00     0.000 C 
+BRANCH  11  12
+ATOM     12  C10 DCR F 201     140.092 103.060  17.617  1.00  0.00     0.000 C 
+BRANCH  12  13
+ATOM     13  C11 DCR F 201     141.206 103.923  16.997  1.00  0.00     0.000 C 
+BRANCH  13  14
+ATOM     14  C12 DCR F 201     142.062 103.178  15.960  1.00  0.00     0.000 C 
+BRANCH  14  15
+ATOM     15  C13 DCR F 201     141.633 103.549  14.532  1.00  0.00     0.000 C 
+BRANCH  15  16
+ATOM     16  C14 DCR F 201     141.520 105.066  14.299  1.00  0.00     0.000 C 
+BRANCH  16  17
+ATOM     17  C15 DCR F 201     142.750 105.672  13.606  1.00  0.00     0.000 C 
+BRANCH  17  18
+ATOM     18  C16 DCR F 201     143.548 106.550  14.585  1.00  0.00     0.000 C 
+BRANCH  18  19
+ATOM     19  C17 DCR F 201     144.757 105.829  15.205  1.00  0.00     0.000 C 
+BRANCH  19  20
+ATOM     20  C18 DCR F 201     145.752 106.779  15.888  1.00  0.00    -0.000 C 
+BRANCH  20  21
+ATOM     21  C19 DCR F 201     147.188 106.479  15.441  1.00  0.00    -0.005 C 
+ATOM     22  C20 DCR F 201     148.128 106.378  16.639  1.00  0.00     0.005 C 
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 18
+ENDMDL

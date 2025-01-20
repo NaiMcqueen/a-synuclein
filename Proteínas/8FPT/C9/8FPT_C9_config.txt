@@ -1,0 +1,15 @@
+receptor = 8FPT_C9_prot.pdbqt
+ligand = lig_3P_doco.pdbqt
+
+center_x =  29.544
+center_y =  -4.311
+center_z = -11.847
+
+size_x = 78
+size_y = 56
+size_z = 34
+
+energy_range = 4
+
+num_modes = 200
+exhaustiveness = 200

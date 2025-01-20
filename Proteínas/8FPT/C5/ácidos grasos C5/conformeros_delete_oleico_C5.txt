@@ -1,0 +1,1 @@
+delete lig_2M_oleico_out_C5_2_0003 and lig_2M_oleico_out_C5_2_0015 and lig_2M_oleico_out_C5_2_0010 and lig_2M_oleico_out_C5_2_0016

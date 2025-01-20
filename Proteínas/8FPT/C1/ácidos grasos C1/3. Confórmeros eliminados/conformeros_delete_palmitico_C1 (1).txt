@@ -1,0 +1,1 @@
+delete c1_outputlig_1S_palmitico_out_2_0001 and c1_outputlig_1S_palmitico_out_2_0004 and c1_outputlig_1S_palmitico_out_0014

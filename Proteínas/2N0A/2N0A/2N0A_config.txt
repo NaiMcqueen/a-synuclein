@@ -1,0 +1,15 @@
+receptor = alfasyn_prep.pdbqt
+ligand = ligando_ac_doco.pdbqt
+
+center_x =  105.594
+center_y =  146.12
+center_z = -7.032
+
+size_x = 92
+size_y = 70
+size_z = 88
+
+energy_range = 4
+
+num_modes = 200
+exhaustiveness = 200

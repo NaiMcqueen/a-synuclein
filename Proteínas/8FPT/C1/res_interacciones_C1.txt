@@ -1,0 +1,2633 @@
+
+Ligando: c1_outputlig_0C_tioT_out_0001
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+LYS80
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+VAL82: 4 veces
+LYS80: 2 veces
+GLY86: 3 veces
+SER87: 3 veces
+ILE88: 4 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0002
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0004
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+GLY41: 4 veces
+SER42: 4 veces
+TYR39: 3 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0005
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 4 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0009
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0010
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 3 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0011
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 4 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0012
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0016
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 3 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0017
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0019
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 4 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_0C_tioT_out_0020
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+VAL40
+
+Repeticiones:
+GLY41: 4 veces
+LYS43: 4 veces
+TYR39: 3 veces
+VAL40: 1 veces
+SER42: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0001
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+VAL82: 5 veces
+GLY86: 5 veces
+SER87: 5 veces
+ILE88: 5 veces
+GLN79: 4 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0002
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+LYS80
+GLN79
+
+Repeticiones:
+VAL82: 5 veces
+GLN79: 3 veces
+GLY86: 4 veces
+SER87: 4 veces
+ILE88: 4 veces
+LYS80: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0003
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+VAL82: 4 veces
+GLY86: 5 veces
+SER87: 4 veces
+ILE88: 5 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0004
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+VAL82: 4 veces
+SER87: 4 veces
+ILE88: 4 veces
+GLY86: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0005
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+LYS80
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+VAL82: 5 veces
+ILE88: 5 veces
+LYS80: 1 veces
+GLY86: 4 veces
+SER87: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0006
+Residuos únicos:
+GLU46
+GLN62
+VAL66
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 4 veces
+VAL49: 5 veces
+HIS50: 5 veces
+GLN62: 3 veces
+THR64: 4 veces
+VAL66: 4 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0007
+Residuos únicos:
+GLU46
+GLN62
+VAL66
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 4 veces
+VAL49: 5 veces
+HIS50: 5 veces
+GLN62: 3 veces
+THR64: 5 veces
+VAL66: 4 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0008
+Residuos únicos:
+GLU46
+VAL66
+GLN62
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 4 veces
+HIS50: 4 veces
+THR64: 4 veces
+VAL66: 4 veces
+GLN62: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0009
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0010
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+GLN79: 3 veces
+VAL82: 3 veces
+GLY86: 3 veces
+SER87: 3 veces
+ILE88: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0011
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+VAL82: 3 veces
+GLY86: 3 veces
+SER87: 3 veces
+ILE88: 3 veces
+GLN79: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0012
+Residuos únicos:
+GLU46
+GLN62
+VAL66
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 3 veces
+HIS50: 3 veces
+GLN62: 2 veces
+THR64: 3 veces
+VAL66: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0013
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+VAL82: 4 veces
+GLN79: 3 veces
+GLY86: 3 veces
+SER87: 3 veces
+ILE88: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0015
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0016
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0017
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0018
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+TYR39: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0019
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+LYS32: 2 veces
+LYS34: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_0020
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0002
+Residuos únicos:
+GLU46
+VAL66
+GLN62
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 3 veces
+HIS50: 3 veces
+THR64: 3 veces
+VAL66: 3 veces
+GLN62: 1 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0003
+Residuos únicos:
+GLU46
+VAL66
+GLN62
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+VAL49: 4 veces
+HIS50: 3 veces
+GLN62: 3 veces
+THR64: 3 veces
+VAL66: 3 veces
+GLU46: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0005
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+VAL40
+
+Repeticiones:
+TYR39: 3 veces
+VAL40: 1 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0006
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0007
+Residuos únicos:
+GLU46
+VAL66
+GLN62
+THR64
+VAL63
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 3 veces
+HIS50: 3 veces
+THR64: 3 veces
+VAL66: 3 veces
+GLN62: 2 veces
+VAL63: 1 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0008
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 3 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0009
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0010
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+GLY41: 5 veces
+TYR39: 3 veces
+SER42: 4 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0011
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0012
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0013
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0014
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0015
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0016
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0017
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0018
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0019
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+LYS32: 2 veces
+LYS34: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_1S_palmitico_out_2_0020
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0001
+Residuos únicos:
+GLU46
+VAL66
+GLN62
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 4 veces
+HIS50: 4 veces
+THR64: 5 veces
+VAL66: 4 veces
+GLN62: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0002
+Residuos únicos:
+GLU46
+VAL66
+GLN62
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 4 veces
+HIS50: 4 veces
+THR64: 5 veces
+VAL66: 4 veces
+GLN62: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0003
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0004
+Residuos únicos:
+GLU46
+GLN62
+VAL66
+THR64
+VAL63
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 3 veces
+HIS50: 3 veces
+GLN62: 2 veces
+THR64: 2 veces
+VAL66: 2 veces
+VAL63: 1 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0005
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0006
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0007
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+SER42: 4 veces
+TYR39: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0008
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+TYR39: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0009
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+SER42: 4 veces
+LYS43: 4 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0010
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0011
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0012
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 2 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0013
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0014
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0015
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0016
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0017
+Residuos únicos:
+GLU46
+GLY67
+VAL66
+GLN62
+THR64
+ASN65
+VAL49
+HIS50
+
+Repeticiones:
+VAL49: 4 veces
+GLU46: 3 veces
+HIS50: 3 veces
+THR64: 3 veces
+VAL66: 3 veces
+GLN62: 2 veces
+ASN65: 1 veces
+GLY67: 1 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0018
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0019
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+SER42: 2 veces
+LYS43: 2 veces
+LYS34: 1 veces
+
+Ligando: c1_outputlig_2M_oleico_out_0020
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 4 veces
+TYR39: 3 veces
+SER42: 2 veces
+LYS32: 2 veces
+LYS34: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0001
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+VAL82: 5 veces
+GLY86: 5 veces
+SER87: 5 veces
+ILE88: 5 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0002
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+VAL82: 4 veces
+GLY86: 4 veces
+SER87: 4 veces
+ILE88: 4 veces
+GLN79: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0003
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+GLN79: 3 veces
+VAL82: 4 veces
+GLY86: 5 veces
+SER87: 4 veces
+ILE88: 5 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0004
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+LYS80
+GLN79
+
+Repeticiones:
+VAL82: 4 veces
+GLN79: 3 veces
+GLY86: 3 veces
+SER87: 3 veces
+ILE88: 3 veces
+LYS80: 1 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0005
+Residuos únicos:
+GLU46
+GLN62
+VAL66
+THR64
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 4 veces
+HIS50: 3 veces
+GLN62: 2 veces
+THR64: 4 veces
+VAL66: 4 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0006
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0007
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+GLY41: 5 veces
+TYR39: 4 veces
+SER42: 4 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0008
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 5 veces
+GLY41: 4 veces
+SER42: 4 veces
+LYS43: 4 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0009
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+GLY41: 3 veces
+SER42: 4 veces
+TYR39: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0011
+Residuos únicos:
+SER42
+TYR39
+GLY41
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+LYS43: 4 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0012
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0013
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS34: 2 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0014
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0015
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+GLY41: 5 veces
+SER42: 5 veces
+LYS43: 5 veces
+TYR39: 4 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0016
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+SER42: 3 veces
+TYR39: 2 veces
+LYS43: 2 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0017
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0018
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0019
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 4 veces
+TYR39: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 3 veces
+
+Ligando: c1_outputlig_2M_oleico_out_2_0020
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0001
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+ALA85
+GLN79
+
+Repeticiones:
+VAL82: 5 veces
+GLN79: 3 veces
+GLY86: 4 veces
+SER87: 4 veces
+ILE88: 4 veces
+ALA85: 1 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0002
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+GLN79
+
+Repeticiones:
+VAL82: 5 veces
+GLN79: 2 veces
+GLY86: 4 veces
+SER87: 4 veces
+ILE88: 4 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0003
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS34: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0004
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0005
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0006
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0007
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+TYR39: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0008
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0009
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS32: 2 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0010
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0011
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0012
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 4 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0013
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0014
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0015
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 1 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0016
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 4 veces
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 3 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0017
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0018
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+VAL40
+
+Repeticiones:
+GLY41: 4 veces
+SER42: 4 veces
+TYR39: 2 veces
+VAL40: 1 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0019
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_0020
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 3 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0001
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+LYS80
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+LYS80: 1 veces
+VAL82: 4 veces
+GLY86: 5 veces
+SER87: 4 veces
+ILE88: 5 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0002
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+LYS80
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+LYS80: 1 veces
+VAL82: 5 veces
+GLY86: 5 veces
+SER87: 5 veces
+ILE88: 5 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0003
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0005
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0006
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0007
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0008
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+TYR39: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0009
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0010
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0011
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0012
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+LYS43: 2 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0013
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0014
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0015
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 3 veces
+LYS34: 2 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0016
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 4 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0017
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0018
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0019
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+
+Repeticiones:
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 2 veces
+TYR39: 2 veces
+
+Ligando: c1_outputlig_3P_araquidonico_out_2_0020
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0001
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0002
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_0003
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0004
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 4 veces
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_0005
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+TYR39: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_0006
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+LYS34: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_0007
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+LYS43: 3 veces
+LYS32: 2 veces
+LYS34: 2 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_3P_doco_out_0008
+Residuos únicos:
+GLU46
+GLN62
+VAL66
+THR64
+VAL63
+VAL49
+HIS50
+
+Repeticiones:
+GLU46: 3 veces
+VAL49: 3 veces
+HIS50: 3 veces
+GLN62: 3 veces
+THR64: 3 veces
+VAL66: 2 veces
+VAL63: 1 veces
+
+Ligando: c1_outputlig_3P_doco_out_0009
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0010
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_0011
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 4 veces
+
+Ligando: c1_outputlig_3P_doco_out_0012
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+VAL40
+
+Repeticiones:
+GLY41: 4 veces
+SER42: 4 veces
+LYS43: 4 veces
+TYR39: 4 veces
+VAL40: 1 veces
+
+Ligando: c1_outputlig_3P_doco_out_0013
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0014
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0015
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+VAL40
+
+Repeticiones:
+LYS32: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+VAL40: 1 veces
+
+Ligando: c1_outputlig_3P_doco_out_0016
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 3 veces
+SER42: 2 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0017
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 4 veces
+SER42: 2 veces
+LYS32: 1 veces
+LYS34: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_0018
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+LYS43: 3 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_0019
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 1 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_0020
+Residuos únicos:
+GLY41
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 2 veces
+LYS32: 2 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0001
+Residuos únicos:
+GLY86
+SER87
+ILE88
+VAL82
+LYS80
+GLY84
+GLN79
+
+Repeticiones:
+GLN79: 4 veces
+LYS80: 1 veces
+VAL82: 4 veces
+GLY84: 1 veces
+GLY86: 5 veces
+SER87: 5 veces
+ILE88: 5 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0002
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0003
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0004
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0005
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0006
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0007
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+LYS43: 3 veces
+SER42: 1 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0008
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+LYS32: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0009
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0010
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0011
+Residuos únicos:
+TYR39
+GLY41
+SER42
+LYS43
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 4 veces
+LYS43: 4 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0012
+Residuos únicos:
+TYR39
+LYS43
+LYS32
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 3 veces
+TYR39: 3 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0013
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+GLY41: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 2 veces
+TYR39: 2 veces
+SER42: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0014
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS32: 2 veces
+LYS34: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0015
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS32: 1 veces
+LYS34: 1 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0016
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 3 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0017
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 2 veces
+LYS34: 2 veces
+TYR39: 3 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0018
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS34: 3 veces
+TYR39: 3 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+LYS32: 1 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0019
+Residuos únicos:
+GLY41
+SER42
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+TYR39: 4 veces
+GLY41: 3 veces
+SER42: 3 veces
+LYS43: 3 veces
+LYS34: 2 veces
+
+Ligando: c1_outputlig_3P_doco_out_2_0020
+Residuos únicos:
+GLY41
+SER42
+LYS32
+TYR39
+LYS43
+LYS34
+
+Repeticiones:
+LYS32: 3 veces
+TYR39: 2 veces
+GLY41: 2 veces
+SER42: 2 veces
+LYS43: 2 veces
+LYS34: 2 veces

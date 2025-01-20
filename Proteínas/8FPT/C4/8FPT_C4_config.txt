@@ -1,0 +1,15 @@
+receptor = 8FPT_C4_prot.pdbqt
+ligand = lig_3P_araquidonico.pdbqt
+
+center_x =  -29.182
+center_y =  9.708
+center_z = -13.443
+
+size_x = 78
+size_y = 54
+size_z = 26
+
+energy_range = 4
+
+num_modes = 200
+exhaustiveness = 200

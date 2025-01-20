@@ -1,0 +1,15 @@
+receptor = 8FPT_C2_prot.pdbqt
+ligand = lig_1S_laurico.pdbqt
+
+center_x =  32.117
+center_y =  -7.273
+center_z = -13.553
+
+size_x = 78
+size_y = 56
+size_z = 24
+
+energy_range = 4
+
+num_modes = 200
+exhaustiveness = 200

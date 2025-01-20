@@ -1,0 +1,3102 @@
+Ligando: lig_0C_tioT_out_0001
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+Ligando: lig_0C_tioT_out_0003
+Aminoácidos que interactúan:
+B/LYS96
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+J/LYS96
+Ligando: lig_0C_tioT_out_0004
+Aminoácidos que interactúan:
+B/LYS96
+D/LYS96
+D/ASP98
+F/LYS96
+F/ASP98
+F/LEU100
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+J/LYS96
+Ligando: lig_0C_tioT_out_0005
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/THR72
+D/LYS96
+D/ASP98
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/ASP98
+Ligando: lig_0C_tioT_out_0006
+Aminoácidos que interactúan:
+D/LYS96
+D/ASP98
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+J/LYS96
+J/ASP98
+Ligando: lig_0C_tioT_out_0007
+Aminoácidos que interactúan:
+B/HIS50
+D/VAL48
+D/VAL49
+D/HIS50
+F/VAL48
+F/VAL49
+F/HIS50
+H/VAL48
+H/VAL49
+H/HIS50
+J/VAL48
+J/VAL49
+J/HIS50
+Ligando: lig_0C_tioT_out_0008
+Aminoácidos que interactúan:
+B/ASP98
+B/GLN99
+D/LYS97
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/ASP98
+H/GLN99
+J/GLN99
+Ligando: lig_0C_tioT_out_0009
+Aminoácidos que interactúan:
+B/GLN99
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/ASP98
+H/GLN99
+J/LYS97
+J/GLN99
+Ligando: lig_0C_tioT_out_0010
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/LYS97
+F/ASP98
+H/THR72
+H/LYS96
+J/THR72
+Ligando: lig_0C_tioT_out_0011
+Aminoácidos que interactúan:
+D/LYS97
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/ASP98
+H/GLN99
+J/GLN99
+Ligando: lig_0C_tioT_out_0014
+Aminoácidos que interactúan:
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/THR64
+H/VAL66
+Ligando: lig_0C_tioT_out_0015
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+D/LYS96
+D/LYS97
+D/ASP98
+F/LYS96
+F/LYS97
+F/ASP98
+F/LEU100
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+Ligando: lig_0C_tioT_out_0016
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL66
+Ligando: lig_0C_tioT_out_0017
+Aminoácidos que interactúan:
+D/LYS96
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/LYS97
+H/ASP98
+J/LYS96
+Ligando: lig_0C_tioT_out_0018
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+J/VAL66
+Ligando: lig_0C_tioT_out_0019
+Aminoácidos que interactúan:
+B/THR64
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+Ligando: lig_1S_palmitico_out_0001
+Aminoácidos que interactúan:
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLY51
+H/LYS60
+Ligando: lig_1S_palmitico_out_0002
+Aminoácidos que interactúan:
+B/LEU38
+B/VAL40
+B/VAL74
+B/ALA76
+D/LEU38
+D/VAL40
+D/VAL71
+D/VAL74
+D/ALA76
+F/LEU38
+F/VAL40
+F/VAL71
+F/VAL74
+H/LEU38
+H/TYR39
+H/VAL40
+H/VAL71
+H/VAL74
+J/LEU38
+J/VAL40
+J/VAL71
+J/VAL74
+Ligando: lig_1S_palmitico_out_0003
+Aminoácidos que interactúan:
+B/ASP98
+D/LYS97
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/ASP98
+H/GLN99
+J/LYS97
+Ligando: lig_1S_palmitico_out_0004
+Aminoácidos que interactúan:
+D/VAL49
+D/HIS50
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+J/LYS60
+Ligando: lig_1S_palmitico_out_0005
+Aminoácidos que interactúan:
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/VAL66
+Ligando: lig_1S_palmitico_out_0006
+Aminoácidos que interactúan:
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+F/LYS45
+F/VAL49
+F/GLY51
+F/LYS60
+F/GLN62
+H/VAL49
+Ligando: lig_1S_palmitico_out_0007
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/GLN62
+H/VAL66
+Ligando: lig_1S_palmitico_out_0008
+Aminoácidos que interactúan:
+D/ASN65
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/ASN65
+H/VAL70
+H/THR72
+Ligando: lig_1S_palmitico_out_0009
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+J/LYS60
+Ligando: lig_1S_palmitico_out_0010
+Aminoácidos que interactúan:
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLY51
+F/LYS60
+F/GLN62
+H/LYS45
+H/VAL49
+H/LYS60
+Ligando: lig_1S_palmitico_out_0011
+Aminoácidos que interactúan:
+B/ASP98
+B/GLN99
+D/LYS97
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/GLN99
+Ligando: lig_1S_palmitico_out_0012
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL66
+Ligando: lig_1S_palmitico_out_0013
+Aminoácidos que interactúan:
+D/VAL48
+D/VAL49
+D/HIS50
+F/VAL48
+F/VAL49
+F/HIS50
+H/VAL48
+H/VAL49
+H/HIS50
+J/VAL48
+J/VAL49
+J/HIS50
+Ligando: lig_1S_palmitico_out_0014
+Aminoácidos que interactúan:
+F/GLN62
+H/LYS45
+H/VAL49
+H/HIS50
+H/LYS60
+H/GLN62
+H/THR64
+J/LYS45
+J/VAL49
+J/HIS50
+J/GLY51
+J/LYS60
+J/GLN62
+J/THR64
+Ligando: lig_1S_palmitico_out_0015
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+J/LYS45
+J/VAL49
+J/GLN62
+J/THR64
+Ligando: lig_1S_palmitico_out_0016
+Aminoácidos que interactúan:
+B/ASP98
+B/GLN99
+D/LYS97
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/GLN99
+Ligando: lig_1S_palmitico_out_0017
+Aminoácidos que interactúan:
+B/THR44
+B/GLU46
+D/THR44
+D/LYS45
+D/GLU46
+F/THR44
+F/LYS45
+F/GLU46
+H/THR44
+H/LYS45
+H/GLU46
+J/THR44
+J/LYS45
+J/GLU46
+Ligando: lig_1S_palmitico_out_0018
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+Ligando: lig_1S_palmitico_out_0019
+Aminoácidos que interactúan:
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+H/LEU100
+J/VAL70
+J/THR72
+J/LYS96
+J/ASP98
+Ligando: lig_1S_palmitico_out_0020
+Aminoácidos que interactúan:
+D/ASP98
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/ASP98
+H/GLN99
+J/LYS97
+J/GLN99
+Ligando: lig_2M_oleico_out_0001
+Aminoácidos que interactúan:
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/VAL66
+Ligando: lig_2M_oleico_out_0002
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+Ligando: lig_2M_oleico_out_0003
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+F/LYS60
+Ligando: lig_2M_oleico_out_0004
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+J/VAL49
+Ligando: lig_2M_oleico_out_0005
+Aminoácidos que interactúan:
+D/GLN62
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/VAL49
+J/LYS60
+Ligando: lig_2M_oleico_out_0006
+Aminoácidos que interactúan:
+B/VAL49
+B/HIS50
+B/GLN62
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/VAL66
+Ligando: lig_2M_oleico_out_0007
+Aminoácidos que interactúan:
+B/VAL49
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/LYS60
+Ligando: lig_2M_oleico_out_0008
+Aminoácidos que interactúan:
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/THR72
+H/LYS96
+H/ASP98
+H/LEU100
+J/LYS96
+J/ASP98
+Ligando: lig_2M_oleico_out_0009
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS60
+Ligando: lig_2M_oleico_out_0010
+Aminoácidos que interactúan:
+D/VAL49
+D/GLN62
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/GLY51
+H/LYS60
+H/GLN62
+J/LYS45
+J/VAL49
+Ligando: lig_2M_oleico_out_0011
+Aminoácidos que interactúan:
+B/GLN62
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+J/LYS45
+J/VAL49
+J/LYS60
+Ligando: lig_2M_oleico_out_0012
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+B/VAL66
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/VAL66
+F/VAL49
+F/LYS60
+Ligando: lig_2M_oleico_out_0013
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+Ligando: lig_2M_oleico_out_0014
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/LYS97
+F/ASP98
+H/THR72
+Ligando: lig_2M_oleico_out_0015
+Aminoácidos que interactúan:
+B/ASN65
+B/GLY67
+B/LYS96
+D/ASN65
+D/VAL66
+D/GLY67
+D/GLY68
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+F/VAL70
+F/THR72
+F/LYS96
+H/THR72
+Ligando: lig_2M_oleico_out_0016
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS43
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/VAL66
+Ligando: lig_2M_oleico_out_0017
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+Ligando: lig_2M_oleico_out_0018
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+Ligando: lig_2M_oleico_out_0019
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+J/LYS45
+J/VAL49
+J/GLN62
+Ligando: lig_2M_oleico_out_0020
+Aminoácidos que interactúan:
+B/LYS96
+D/ASN65
+D/LYS96
+D/ASP98
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/ASN65
+H/VAL70
+H/THR72
+J/THR72
+Ligando: lig_3P_araquidonico_out_0001
+Aminoácidos que interactúan:
+D/VAL49
+D/GLN62
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+J/LYS60
+Ligando: lig_3P_araquidonico_out_0002
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/VAL49
+H/LYS60
+Ligando: lig_3P_araquidonico_out_0003
+Aminoácidos que interactúan:
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+J/LYS60
+J/VAL66
+Ligando: lig_3P_araquidonico_out_0004
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+J/LYS60
+Ligando: lig_3P_araquidonico_out_0005
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+B/VAL66
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/LYS60
+F/GLN62
+F/VAL66
+H/LYS60
+Ligando: lig_3P_araquidonico_out_0006
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+B/THR64
+B/VAL66
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS60
+Ligando: lig_3P_araquidonico_out_0007
+Aminoácidos que interactúan:
+B/LYS96
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+Ligando: lig_3P_araquidonico_out_0008
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+B/VAL66
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/LYS60
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/VAL66
+Ligando: lig_3P_araquidonico_out_0009
+Aminoácidos que interactúan:
+B/VAL48
+B/VAL49
+B/HIS50
+D/VAL48
+D/VAL49
+D/HIS50
+F/VAL48
+F/VAL49
+F/HIS50
+H/VAL48
+H/VAL49
+H/HIS50
+Ligando: lig_3P_araquidonico_out_0010
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/VAL70
+D/THR72
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+Ligando: lig_3P_araquidonico_out_0011
+Aminoácidos que interactúan:
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/THR64
+H/VAL66
+Ligando: lig_3P_araquidonico_out_0012
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+H/VAL66
+Ligando: lig_3P_araquidonico_out_0013
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+J/GLY51
+J/LYS60
+Ligando: lig_3P_araquidonico_out_0014
+Aminoácidos que interactúan:
+B/LYS96
+D/ASN65
+D/GLY67
+D/VAL70
+D/LYS96
+D/ASP98
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+H/VAL70
+H/THR72
+Ligando: lig_3P_araquidonico_out_0015
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+Ligando: lig_3P_araquidonico_out_0016
+Aminoácidos que interactúan:
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/ASP98
+H/LEU100
+J/VAL70
+J/THR72
+Ligando: lig_3P_araquidonico_out_0017
+Aminoácidos que interactúan:
+B/LYS96
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/VAL70
+H/THR72
+H/LYS96
+J/THR72
+Ligando: lig_3P_araquidonico_out_0018
+Aminoácidos que interactúan:
+D/LYS96
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+H/LEU100
+J/VAL70
+J/THR72
+J/LYS96
+J/ASP98
+J/LEU100
+Ligando: lig_3P_araquidonico_out_0019
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+H/VAL70
+H/THR72
+Ligando: lig_3P_araquidonico_out_0020
+Aminoácidos que interactúan:
+D/ASN65
+D/GLY67
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL66
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/ASN65
+H/VAL70
+H/THR72
+J/VAL70
+J/THR72
+Ligando: lig_3P_doco_out_0001
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS60
+Ligando: lig_3P_doco_out_0002
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+B/VAL66
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/VAL66
+Ligando: lig_3P_doco_out_0003
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/LYS60
+Ligando: lig_3P_doco_out_0004
+Aminoácidos que interactúan:
+D/LYS96
+F/ASN65
+F/GLY67
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/ASN65
+H/VAL66
+H/GLY67
+H/GLY68
+H/VAL70
+H/THR72
+H/LYS96
+J/VAL70
+J/THR72
+Ligando: lig_3P_doco_out_0005
+Aminoácidos que interactúan:
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+J/LYS60
+J/VAL66
+Ligando: lig_3P_doco_out_0006
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+B/VAL66
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/VAL66
+Ligando: lig_3P_doco_out_0007
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+B/LYS102
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+Ligando: lig_3P_doco_out_0008
+Aminoácidos que interactúan:
+B/HIS50
+D/VAL48
+D/VAL49
+D/HIS50
+F/VAL48
+F/VAL49
+F/HIS50
+H/VAL48
+H/VAL49
+H/HIS50
+Ligando: lig_3P_doco_out_0009
+Aminoácidos que interactúan:
+B/ASN65
+B/LYS96
+B/ASP98
+B/LEU100
+D/ASN65
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+F/VAL70
+F/THR72
+F/LYS96
+H/VAL70
+H/THR72
+J/THR72
+Ligando: lig_3P_doco_out_0010
+Aminoácidos que interactúan:
+D/LYS96
+D/ASP98
+D/LEU100
+D/LYS102
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+J/VAL70
+J/THR72
+Ligando: lig_3P_doco_out_0011
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLY51
+F/LYS60
+F/GLN62
+F/VAL66
+H/LYS60
+Ligando: lig_3P_doco_out_0012
+Aminoácidos que interactúan:
+B/ASP98
+B/LEU100
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/VAL70
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+J/VAL70
+J/THR72
+Ligando: lig_3P_doco_out_0013
+Aminoácidos que interactúan:
+B/ASN65
+B/LYS96
+B/ASP98
+B/LEU100
+D/ASN65
+D/VAL70
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/THR72
+Ligando: lig_3P_doco_out_0014
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+D/ASN65
+D/GLY67
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL70
+F/THR72
+H/ASN65
+H/VAL70
+Ligando: lig_3P_doco_out_0015
+Aminoácidos que interactúan:
+B/VAL49
+B/GLY51
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+F/VAL49
+F/LYS60
+Ligando: lig_3P_doco_out_0016
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+D/ASN65
+D/GLY67
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+H/VAL70
+H/THR72
+J/THR72
+Ligando: lig_3P_doco_out_0017
+Aminoácidos que interactúan:
+D/LYS96
+D/ASP98
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/ASN65
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+J/VAL70
+J/THR72
+Ligando: lig_3P_doco_out_0018
+Aminoácidos que interactúan:
+B/LYS96
+D/ASN65
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/VAL70
+H/THR72
+Ligando: lig_3P_doco_out_0019
+Aminoácidos que interactúan:
+D/ASN65
+D/LYS96
+D/LEU100
+F/ASN65
+F/VAL70
+F/LYS96
+F/ASP98
+F/LEU100
+H/ASN65
+H/VAL70
+H/THR72
+J/VAL70
+J/THR72
+Ligando: lig_3P_doco_out_0020
+Aminoácidos que interactúan:
+C/ALA91
+C/THR92
+C/GLY93
+D/ALA85
+E/ALA91
+E/THR92
+E/GLY93
+E/PHE94
+E/VAL95
+F/GLY84
+F/ALA85
+G/THR92
+G/GLY93
+G/VAL95
+H/GLY84
+H/ALA85
+Ligando: lig_0C_tioT_out_C9_2_0002
+Aminoácidos que interactúan:
+B/LYS96
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+J/LYS96
+Ligando: lig_0C_tioT_out_C9_2_0006
+Aminoácidos que interactúan:
+D/LYS96
+D/ASP98
+F/LYS96
+F/ASP98
+F/LEU100
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+J/LYS96
+J/ASP98
+Ligando: lig_0C_tioT_out_C9_2_0007
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+Ligando: lig_0C_tioT_out_C9_2_0009
+Aminoácidos que interactúan:
+B/GLN99
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/ASP98
+H/GLN99
+J/LYS97
+J/GLN99
+Ligando: lig_0C_tioT_out_C9_2_0015
+Aminoácidos que interactúan:
+B/LYS96
+D/VAL70
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/LYS97
+H/ASP98
+Ligando: lig_1S_palmitico_out_C9_2_0001
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/LYS60
+Ligando: lig_1S_palmitico_out_C9_2_0002
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+H/LYS60
+Ligando: lig_1S_palmitico_out_C9_2_0003
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/LYS60
+Ligando: lig_1S_palmitico_out_C9_2_0004
+Aminoácidos que interactúan:
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+Ligando: lig_1S_palmitico_out_C9_2_0005
+Aminoácidos que interactúan:
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+J/HIS50
+J/GLY51
+J/LYS60
+J/GLN62
+J/VAL66
+Ligando: lig_1S_palmitico_out_C9_2_0006
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/VAL49
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+Ligando: lig_1S_palmitico_out_C9_2_0007
+Aminoácidos que interactúan:
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/LYS60
+F/GLN62
+F/THR64
+Ligando: lig_1S_palmitico_out_C9_2_0008
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+Ligando: lig_1S_palmitico_out_C9_2_0009
+Aminoácidos que interactúan:
+D/GLN62
+F/LYS45
+F/VAL49
+F/HIS50
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/GLY51
+J/LYS60
+J/VAL66
+Ligando: lig_1S_palmitico_out_C9_2_0010
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/LYS96
+H/ASP98
+J/THR72
+Ligando: lig_1S_palmitico_out_C9_2_0011
+Aminoácidos que interactúan:
+B/ASP98
+B/GLN99
+D/LYS97
+D/ASP98
+D/GLN99
+F/LYS97
+F/ASP98
+F/GLN99
+H/LYS97
+H/GLN99
+Ligando: lig_1S_palmitico_out_C9_2_0012
+Aminoácidos que interactúan:
+B/LEU100
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/THR72
+H/LYS96
+H/ASP98
+Ligando: lig_1S_palmitico_out_C9_2_0013
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/ASN65
+D/GLY67
+D/LYS96
+D/ASP98
+F/ASN65
+F/VAL66
+F/GLY67
+F/GLY68
+F/VAL70
+F/THR72
+H/VAL70
+H/THR72
+Ligando: lig_1S_palmitico_out_C9_2_0014
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/VAL66
+Ligando: lig_1S_palmitico_out_C9_2_0015
+Aminoácidos que interactúan:
+D/LYS96
+F/ASN65
+F/GLY67
+F/LYS96
+F/ASP98
+F/LEU100
+H/ASN65
+H/VAL66
+H/GLY67
+H/GLY68
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+J/VAL70
+J/THR72
+Ligando: lig_1S_palmitico_out_C9_2_0016
+Aminoácidos que interactúan:
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+Ligando: lig_1S_palmitico_out_C9_2_0017
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+Ligando: lig_1S_palmitico_out_C9_2_0018
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/VAL70
+H/THR72
+Ligando: lig_1S_palmitico_out_C9_2_0019
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+Ligando: lig_1S_palmitico_out_C9_2_0020
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/LYS97
+F/ASP98
+H/THR72
+H/LYS96
+Ligando: lig_2M_oleico_out_C9_2_0001
+Aminoácidos que interactúan:
+B/VAL49
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/VAL49
+H/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0002
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/VAL49
+H/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0003
+Aminoácidos que interactúan:
+B/VAL49
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0004
+Aminoácidos que interactúan:
+B/GLN62
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/VAL66
+Ligando: lig_2M_oleico_out_C9_2_0005
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+Ligando: lig_2M_oleico_out_C9_2_0006
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/VAL49
+H/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0007
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+Ligando: lig_2M_oleico_out_C9_2_0008
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/LYS60
+F/GLN62
+H/LYS45
+H/VAL49
+Ligando: lig_2M_oleico_out_C9_2_0009
+Aminoácidos que interactúan:
+B/VAL49
+B/GLN62
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0010
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+F/LYS45
+F/VAL49
+F/GLY51
+F/LYS60
+F/GLN62
+H/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0011
+Aminoácidos que interactúan:
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/LYS97
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+J/LYS96
+Ligando: lig_2M_oleico_out_C9_2_0012
+Aminoácidos que interactúan:
+B/ASN65
+B/GLY67
+D/ASN65
+D/VAL66
+D/GLY67
+D/GLY68
+D/VAL70
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+H/VAL70
+H/THR72
+Ligando: lig_2M_oleico_out_C9_2_0013
+Aminoácidos que interactúan:
+B/VAL48
+B/VAL49
+B/HIS50
+D/VAL48
+D/VAL49
+D/HIS50
+F/VAL48
+F/VAL49
+F/HIS50
+H/VAL48
+H/VAL49
+H/HIS50
+J/VAL48
+J/VAL49
+J/HIS50
+Ligando: lig_2M_oleico_out_C9_2_0014
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/VAL66
+Ligando: lig_2M_oleico_out_C9_2_0015
+Aminoácidos que interactúan:
+B/GLN62
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLY51
+H/LYS60
+J/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0016
+Aminoácidos que interactúan:
+B/GLN62
+D/VAL49
+D/HIS50
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+J/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0017
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/VAL66
+H/VAL49
+H/LYS60
+Ligando: lig_2M_oleico_out_C9_2_0018
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/GLY51
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+Ligando: lig_2M_oleico_out_C9_2_0019
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/GLN62
+H/VAL66
+J/LYS45
+J/VAL49
+J/GLN62
+Ligando: lig_2M_oleico_out_C9_2_0020
+Aminoácidos que interactúan:
+B/VAL48
+B/HIS50
+D/VAL48
+D/VAL49
+D/HIS50
+F/VAL48
+F/VAL49
+F/HIS50
+Ligando: lig_3P_araquidonico_out_C9_2_0001
+Aminoácidos que interactúan:
+B/VAL49
+B/HIS50
+B/GLN62
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/VAL49
+H/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0002
+Aminoácidos que interactúan:
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLN62
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+J/LYS45
+J/VAL49
+J/HIS50
+J/GLY51
+J/LYS60
+J/GLN62
+J/THR64
+J/VAL66
+Ligando: lig_3P_araquidonico_out_C9_2_0003
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/VAL66
+J/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0005
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/VAL49
+H/GLY51
+H/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0006
+Aminoácidos que interactúan:
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+H/VAL66
+J/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0007
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+J/VAL49
+J/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0008
+Aminoácidos que interactúan:
+B/LYS96
+B/LYS97
+B/ASP98
+B/LEU100
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/LYS97
+F/ASP98
+H/THR72
+Ligando: lig_3P_araquidonico_out_C9_2_0009
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/VAL49
+J/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0010
+Aminoácidos que interactúan:
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0011
+Aminoácidos que interactúan:
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS45
+J/VAL49
+J/LYS60
+J/GLN62
+J/VAL66
+Ligando: lig_3P_araquidonico_out_C9_2_0012
+Aminoácidos que interactúan:
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+J/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0013
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/VAL49
+F/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0014
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/LYS60
+F/GLN62
+H/VAL49
+H/HIS50
+H/GLY51
+H/LYS60
+H/GLN62
+J/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0015
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/GLY51
+B/LYS60
+B/GLN62
+B/THR64
+B/VAL66
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/THR64
+F/VAL49
+F/LYS60
+Ligando: lig_3P_araquidonico_out_C9_2_0016
+Aminoácidos que interactúan:
+B/LYS96
+B/LYS97
+B/ASP98
+B/LEU100
+D/VAL70
+D/THR72
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+Ligando: lig_3P_araquidonico_out_C9_2_0017
+Aminoácidos que interactúan:
+B/VAL49
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+F/LYS45
+F/VAL49
+F/LYS60
+F/GLN62
+Ligando: lig_3P_araquidonico_out_C9_2_0018
+Aminoácidos que interactúan:
+B/VAL48
+B/HIS50
+D/VAL48
+D/VAL49
+D/HIS50
+F/VAL48
+F/VAL49
+F/HIS50
+H/VAL48
+H/VAL49
+H/HIS50
+Ligando: lig_3P_araquidonico_out_C9_2_0019
+Aminoácidos que interactúan:
+F/GLN62
+F/THR64
+H/LYS45
+H/VAL49
+H/GLN62
+H/THR64
+H/VAL66
+J/LYS43
+J/LYS45
+J/VAL49
+J/GLN62
+J/THR64
+J/VAL66
+Ligando: lig_3P_araquidonico_out_C9_2_0020
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/LYS60
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL66
+Ligando: lig_3P_doco_out_C9_2_0001
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/GLN62
+B/THR64
+B/VAL66
+D/LYS45
+D/VAL49
+D/HIS50
+D/GLY51
+D/LYS60
+D/GLN62
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/GLY51
+F/LYS60
+F/GLN62
+H/VAL49
+H/LYS60
+Ligando: lig_3P_doco_out_C9_2_0002
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+J/THR72
+Ligando: lig_3P_doco_out_C9_2_0003
+Aminoácidos que interactúan:
+D/ASN65
+D/VAL70
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/VAL70
+H/THR72
+H/LYS96
+J/THR72
+Ligando: lig_3P_doco_out_C9_2_0004
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/LYS97
+F/ASP98
+H/THR72
+Ligando: lig_3P_doco_out_C9_2_0005
+Aminoácidos que interactúan:
+D/ASN65
+D/LYS96
+F/ASN65
+F/VAL66
+F/GLY67
+F/VAL70
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+H/ASP98
+J/VAL70
+J/THR72
+Ligando: lig_3P_doco_out_C9_2_0006
+Aminoácidos que interactúan:
+D/LYS43
+D/LYS45
+D/VAL49
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/HIS50
+F/LYS60
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+H/THR64
+H/VAL66
+J/VAL49
+Ligando: lig_3P_doco_out_C9_2_0007
+Aminoácidos que interactúan:
+D/GLN62
+D/THR64
+D/VAL66
+F/LYS45
+F/VAL49
+F/GLN62
+F/THR64
+F/VAL66
+H/LYS45
+H/VAL49
+H/LYS60
+H/GLN62
+H/THR64
+J/VAL49
+J/HIS50
+J/GLY51
+J/LYS60
+J/GLN62
+Ligando: lig_3P_doco_out_C9_2_0008
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/GLY51
+B/LYS60
+B/GLN62
+B/THR64
+D/LYS45
+D/VAL49
+D/LYS60
+D/GLN62
+D/THR64
+Ligando: lig_3P_doco_out_C9_2_0009
+Aminoácidos que interactúan:
+B/ASN65
+B/LYS96
+B/LEU100
+D/ASN65
+D/VAL70
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+H/VAL70
+H/THR72
+Ligando: lig_3P_doco_out_C9_2_0010
+Aminoácidos que interactúan:
+D/ASN65
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/VAL70
+H/THR72
+J/THR72
+Ligando: lig_3P_doco_out_C9_2_0011
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/THR72
+H/LYS96
+H/ASP98
+H/LEU100
+Ligando: lig_3P_doco_out_C9_2_0012
+Aminoácidos que interactúan:
+B/ASN65
+B/GLY67
+B/LYS96
+D/ASN65
+D/VAL66
+D/GLY67
+D/GLY68
+D/VAL70
+D/LYS96
+D/ASP98
+F/VAL70
+F/THR72
+F/LYS96
+H/VAL70
+H/THR72
+Ligando: lig_3P_doco_out_C9_2_0013
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/ASN65
+D/VAL70
+D/THR72
+D/LYS96
+D/ASP98
+F/ASN65
+F/VAL70
+F/THR72
+H/VAL70
+H/THR72
+Ligando: lig_3P_doco_out_C9_2_0014
+Aminoácidos que interactúan:
+B/LYS45
+B/VAL49
+B/HIS50
+B/GLY51
+B/LYS60
+B/GLN62
+B/VAL66
+D/LYS45
+D/VAL49
+D/LYS60
+D/GLN62
+Ligando: lig_3P_doco_out_C9_2_0015
+Aminoácidos que interactúan:
+B/LEU100
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL70
+F/LYS96
+F/ASP98
+H/VAL70
+H/THR72
+H/LYS96
+J/THR72
+Ligando: lig_3P_doco_out_C9_2_0016
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+D/LYS96
+D/ASP98
+D/LEU100
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/THR72
+H/LYS96
+J/THR72
+Ligando: lig_3P_doco_out_C9_2_0017
+Aminoácidos que interactúan:
+B/LEU100
+D/ASN65
+D/VAL70
+D/LYS96
+D/ASP98
+D/LEU100
+F/ASN65
+F/VAL66
+F/GLY67
+F/VAL70
+F/THR72
+H/VAL70
+H/THR72
+Ligando: lig_3P_doco_out_C9_2_0018
+Aminoácidos que interactúan:
+D/ASN65
+D/LYS96
+D/LEU100
+F/ASN65
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+F/LEU100
+H/VAL70
+H/THR72
+H/LYS96
+J/THR72
+Ligando: lig_3P_doco_out_C9_2_0019
+Aminoácidos que interactúan:
+B/LYS96
+B/ASP98
+B/LEU100
+D/VAL70
+D/THR72
+D/LYS96
+D/LYS97
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+H/THR72
+Ligando: lig_3P_doco_out_C9_2_0020
+Aminoácidos que interactúan:
+B/LYS96
+B/LEU100
+D/LYS96
+D/ASP98
+D/LEU100
+F/VAL70
+F/THR72
+F/LYS96
+F/ASP98
+H/VAL70
+H/THR72
+H/LYS96
+J/THR72
