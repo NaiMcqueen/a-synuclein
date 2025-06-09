@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1Kop-Gzz1gMjQhnCryuFqEcvmP2pk4V2j
 """
 
-# Obtener una lista de todos los objetos que contienen "TioT"hola
-ligands = cmd.get_object_list("lig_palmitico")
+# Obtener una lista de todos los objetos que contienen "TioT"
+ligands = cmd.get_object_list("lig_DHA")
 
 # Comparar todos los ligandos entre sí
 for i in range(len(ligands)):
