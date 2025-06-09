@@ -1,0 +1,262 @@
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 4 CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -992214272
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.9      0.000      0.000
+   2         -7.9      0.128      1.338
+   3         -7.8      1.625      7.676
+   4         -7.7      1.160      1.751
+   5         -7.6      2.558      4.930
+   6         -7.6      2.754      8.838
+   7         -7.5      2.615      4.908
+   8         -7.5      2.290      8.414
+   9         -7.5      1.719      3.073
+  10         -7.3      1.971      7.990
+  11         -7.3      8.195      9.060
+  12         -7.3      8.313      9.648
+  13         -7.2      8.787     12.761
+  14         -7.1      8.662     11.973
+  15         -7.1      2.707      5.111
+  16         -7.0      3.862      9.994
+  17         -7.0      8.251      9.276
+  18         -7.0      2.105      8.523
+  19         -7.0      8.851     12.329
+  20         -7.0      9.293     10.649
+Writing output ... done.
+Docking completado para: lig_0C_tioT
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 4 CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 1304235652
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -5.5      0.000      0.000
+   2         -5.3     19.581     22.091
+   3         -5.0     18.989     19.607
+   4         -4.9     13.383     13.878
+   5         -4.9     20.301     22.148
+   6         -4.9     20.103     22.235
+   7         -4.9     18.502     19.296
+   8         -4.8     19.800     22.779
+   9         -4.7     19.642     21.961
+  10         -4.7     19.355     20.302
+  11         -4.7     23.216     24.597
+  12         -4.6     20.200     22.314
+  13         -4.6     19.357     19.992
+  14         -4.6     18.865     19.533
+  15         -4.6     19.805     20.389
+  16         -4.6     21.507     23.623
+  17         -4.6     20.646     21.667
+  18         -4.5     20.486     21.832
+  19         -4.5     19.784     22.279
+  20         -4.4     20.193     22.617
+Writing output ... done.
+Docking completado para: lig_1S_palmitico
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 4 CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 1889868008
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -5.6      0.000      0.000
+   2         -5.4     19.733     22.808
+   3         -5.3     19.651     23.014
+   4         -5.3     18.559     19.326
+   5         -5.3     19.837     22.680
+   6         -5.3     19.727     20.716
+   7         -5.2     18.787     19.614
+   8         -5.1      6.724     13.176
+   9         -5.0     20.843     23.388
+  10         -4.9     21.124     22.643
+  11         -4.9     19.500     20.188
+  12         -4.9     20.519     22.359
+  13         -4.9      6.854     13.509
+  14         -4.9     20.266     23.340
+  15         -4.8     23.660     24.629
+  16         -4.8     20.027     21.185
+  17         -4.8     20.102     22.657
+  18         -4.8     23.318     25.571
+  19         -4.8     20.588     23.447
+  20         -4.8     20.053     21.177
+Writing output ... done.
+Docking completado para: lig_2M_oleico
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 4 CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 1643046016
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -5.5      0.000      0.000
+   2         -5.4      3.752      6.126
+   3         -5.3      5.023      8.736
+   4         -5.2      2.031      3.175
+   5         -5.2     21.119     23.952
+   6         -5.1      5.905      9.661
+   7         -5.1      4.459      7.749
+   8         -5.0      4.167      8.259
+   9         -5.0      3.842      8.108
+  10         -5.0      3.661      8.955
+  11         -5.0      4.480      8.066
+  12         -5.0      4.860      7.954
+  13         -5.0      3.450      7.490
+  14         -5.0      2.898      4.188
+  15         -4.9      9.222     11.140
+  16         -4.8      8.625     10.780
+  17         -4.8      5.107      7.417
+  18         -4.8      1.377      2.138
+  19         -4.7      8.601     10.343
+  20         -4.7      9.653     13.075
+Writing output ... done.
+Docking completado para: lig_3P_araquidonico
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 4 CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 366801584
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -6.1      0.000      0.000
+   2         -5.9     24.080     25.959
+   3         -5.8     28.648     30.996
+   4         -5.8     25.174     26.565
+   5         -5.7     24.897     27.228
+   6         -5.7     29.203     31.515
+   7         -5.7     29.225     31.518
+   8         -5.7     29.255     30.917
+   9         -5.7     24.178     25.404
+  10         -5.7     24.922     26.167
+  11         -5.7     23.385     24.519
+  12         -5.6     24.353     26.839
+  13         -5.6     29.068     29.920
+  14         -5.6     26.621     28.108
+  15         -5.6     28.252     29.261
+  16         -5.6     29.365     31.402
+  17         -5.6     27.739     29.683
+  18         -5.6     29.195     30.938
+  19         -5.6     28.364     29.882
+  20         -5.6     26.433     28.136
+Writing output ... done.
+Docking completado para: lig_3P_doco
+Todos los dockings han sido completados.
+Presione una tecla para continuar . . . 

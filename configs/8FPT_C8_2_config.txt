@@ -1,0 +1,14 @@
+receptor = 8FPT_C8_prot.pdbqt
+
+center_x =  30.614
+center_y =  -2.075
+center_z = -13.509
+
+size_x = 78
+size_y = 52
+size_z = 30
+
+energy_range = 4
+
+num_modes = 200
+exhaustiveness = 100
