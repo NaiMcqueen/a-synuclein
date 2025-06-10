@@ -3,7 +3,7 @@ import sys
 import os
 
 ligand_file = sys.argv[1]  # recibe como argumento el archivo PDBQT
-ligand_name = os.path.basename(ligand_file).replace('_out.pdbqt', '')  # ej: lig_tioT
+ligand_name = os.path.splitext(os.path.basename(ligand_file))[0].replace('_out', '')  # quita .pdbqt y _out
 
 # Carga con nombre controlado para que split_states funcione bien
 cmd.load(ligand_file, ligand_name)

@@ -11,7 +11,9 @@ for %%c in (%configDir%*_config.txt) do (
     set "configFile=%%c"
     set "configName=%%~nc"
     echo Procesando configuracion: !configName!
-
+    
+    rem Quitar "_config" del nombre del archivo
+    set "baseName=!configName:_config=!"
     set "outputDir=!baseOutputDir!!configName!"
     if not exist "!outputDir!" mkdir "!outputDir!"
 
