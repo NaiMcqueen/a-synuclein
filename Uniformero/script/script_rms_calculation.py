@@ -21,11 +21,14 @@ for i in range(len(ligands)):
         rms = cmd.rms_cur(ligands[i], ligands[j])
         output_lines.append(f"{ligands[i]} vs {ligands[j]}: {rms:.4f}")
 
-# Crear carpeta de resultados si no existe
-output_dir = "rms_results"
+# Obtener carpeta donde está el archivo ligand_file
+ligand_dir = os.path.dirname(os.path.abspath(ligand_file))
+
+# Crear subcarpeta 'rms_results' dentro de esa carpeta
+output_dir = os.path.join(ligand_dir, "rms_results")
 os.makedirs(output_dir, exist_ok=True)
 
-# Guardar resultados en la carpeta rms_results
+# Guardar archivo de resultados ahí
 output_file = os.path.join(output_dir, f"{ligand_name}_rms_results.txt")
 with open(output_file, "w") as f:
     f.write("\n".join(output_lines))
